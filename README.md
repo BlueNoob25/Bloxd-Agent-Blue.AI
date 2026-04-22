@@ -31,7 +31,7 @@ When typing a prompt, Users may have the ability to use markup formatting, espec
 
 Users also have the ability to, at the home page, choose one of four prompts to begin a conversation. These are called `"Suggested Prompts"` and range from questions about Bloxd.io to its third-party sites to coding and rules.
 
-There is also a sidebar that allows users to access their previous libve and archived chats and rename them.
+There is also a sidebar that allows users to access their previous live and archived chats and rename them.
 
 ## Settings
 Another feature is the Settings tab which allows users to customize their experience with Bloxd Agent Blue. The following is in settings:
@@ -44,4 +44,4 @@ When enabled, the background will have a glow effect.
 ### TL;DR Mode (Currently bugged)
 This feature allows users to have a short response from the AI instead of a long one. There will be a button at the bottom of the response where users can see the longer, full response. Users can switch between short and long anytime when this mode is on.
 ### Suggested Prompts
-When enabled, there will be a set of 4 entry prompts that users can choose to begin a conversation with the AI.
+When enabled, there will be a set of 4 entry prompts that users can choose to begin a conversation with the AI. Currently these are static and do not change, but hopefully in the future these will become more versatille.
