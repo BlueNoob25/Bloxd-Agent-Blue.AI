@@ -175,21 +175,21 @@ Always add a note below the code saying where to paste it (F8 for World Code, ri
 **BLOXDHUB INFO (source: https://bloxdhub.com/info) — SEPARATE FROM BLOXD.IO GAME RULES:**
 - BloxdHub is a social platform made by Bloxd players, for Bloxd players
 - Platform Guide updated January 2026
-- Community: 5,000+ active monthly users
+- Community: 14,000+ active monthly users
 - Features: Posts, Mods, Schematics, API Docs, Forums, Schematics, Blynks Studio
 - The /info page on BloxdHub covers: Welcome guide, Community Guidelines (BH-R1 to BH-R25), Help & Guide (10 sections), YouTuber Requirements, Themes, Boosts system, Creator Insights, Engagement Streaks
 - Always fetch https://bloxdhub.com/info for the latest BloxdHub rules and info — it may be updated
 - Key FAQ answers from the info page:
   - How to post a mod: Use the Mods section, add description & images
   - How to report a post: Click the report button, explain why
-  - Coding help: Use the Forums section
+  - Coding or Texture Pack help: Use the Forums section
   - Schematics: Upload in Schematics with instructions
   - Becoming a moderator: Randomly selected based on activity and contributions; be active, helpful, follow the rules
 
 **BloxdHub Platform:**
 - BloxdHub is an independent community hub for Bloxd.io players
-- Created by Crownix (https://bloxdhub.com/@Crownix), the founder and creator of BloxdHub
-- Over 5,000+ active monthly users
+- Created by Crownix (https://bloxdhub.com/@Crownix), the founder and creator of BloxdHub and a proffessional coder.
+- Over 14,000+ active monthly users
 - Main sections: Posts, Bloxdboards, Forums, Mods, Schematics, Texture Packs, Bloxd API Docs
 - Sign in with Google or Discord
 - Profile features: username (max 16 chars), bio (max 150 chars), avatars, dynamic banners
@@ -213,18 +213,18 @@ Always add a note below the code saying where to paste it (F8 for World Code, ri
 - Also: Spades, Hoes, Axes (Moonstone Axe is top tier), Artisan Axe, Artisan Shears
 
 **WEAPONS:**
-- Swords (wood→diamond tiers), Bows & Crossbows, Spears, Daggers, Clubs, Maces, Whips, Boomerang, AK-47, AWP
+- Swords (wood→diamond tiers), Bows & Crossbows (wood→diamond tiers), Spears (Obtainable only through code or in the Lucky Blocks Battlegrounds gamemode), Daggers (Obtainable only through code or in the Lucky Blocks Battlegrounds gamemode), Clubs (Obtainable only through code or in the Lucky Blocks Battlegrounds gamemode), Maces (Obtainable only through code or in the Lucky Blocks Battlegrounds gamemode), Whips (Obtainable only through code or in the Lucky Blocks Battlegrounds gamemode), Boomerang (Obtainable only through code or in the Lucky Blocks Battlegrounds gamemode), AK-47, AWP, Minigun
 
 **ARMOR:**
 - Wood < Iron < Gold < Diamond (highest standard tier)
-- Hang Gliders (armor slot), Fur Armor
+- Hang Gliders (hold to use), Fur Armor
 
 **BLOXD.IO ITEMS — FULL CATEGORY (270 items, source: https://bloxd-io.fandom.com/wiki/Category:Items):**
 Includes: Acorn, AK-47, Allium, Ammo, Apple, Arrow, Artisan Axe, Artisan Shears, Aspen Log, Aura XP Fragment, Aura XP Orb, AWP, Baked Clay, Balloon, Banana, Banana Seeds, Banners, Barkless Logs, Bedrock, Beetroot, Blinding Pebble, Blocks, Bluebell, Bone Meal, Books, Boomerang, Bread, Bricks, Buttons, Cactus, Campfire, Candles, Carpet, Carrots, Chest, Chiseled Blocks, Clay, Coal, Code Block, Cobblestone, Colored Glass, Compost, Cooked Fish, Copper, Cord, Crafting Table/Workbench, Daggers, Dark Oak, Dead Bush, Diamond, Dirt, Doors, Dyes, Eggs, Emerald, Enchanting Table, Equipment, Fences, Fertilizer, Fireworks, Fishes, Fishing Rods, Flowers, Food, Glass, Gold, Grass, Gravel, Gunpowder, Hang Gliders, Hay Bale, Hoes, Honey, Ice, Iron, Iron Watermelon, Jungle Wood, Kelp, Ladders, Lanterns, Lapis Lazuli, Leaves, Logs, Melon, Moonstone, Moss, Mud, Name Tags, Netherrack, Obsidian, Ores, Paper, Pet Catcher, Pickaxes, Planks, Plants, Potions, Pumpkin, Rails, Raw Meats, Redstone, Ropes, Sand, Seeds, Shears, Signs, Slabs, Slime, Sponge, Stairs, Stone, Sticks, Swords, TNT, Torches, Trapdoors, Trees, Vines, Watermelon Block, Wheat, Wool
 
 **IRON WATERMELON:** ~0.01% chance from Watermelon Seed, mine with Moonstone Pickaxe, drops 128 Iron Bars, not craftable
 
-**FISHES:** Caught in Fishing gamemode. 60+ species across releases. Rarity tiers and families. See https://bloxd-io.fandom.com/wiki/Fishes for full list.
+**FISHES:** Caught in Fishing gamemode. 60+ species across releases. Rarity tiers and families. Can be obtained through code. See https://bloxd-io.fandom.com/wiki/Fishes for full list.
 
 **FISHING RODS:** Stats = Luck + Max Weight. Rusty Rod (free) to Mythic Rod (1,000,000g). Sold at Sunhaven, Gloomtide, Eldermire, Embertide, Frostfell.
 
