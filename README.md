@@ -27,6 +27,10 @@ When this mode is selected, users can give the AI a specific post on any social 
 When this mod is enabled, users can type an idea for a Bloxd.io mod and the AI will bring it to life! It will provide the code, as well as suggesting a title and description, along with a thumbnail idea and 3 image ideas.
 
 ## Features
+Users have the ability to connect one or multiple chats to a current one for a single response. This feature can be accessed by clicking the `"Update Memory"` button above the prompt box. An example use of this feature can be if you want to make a code change from one chat but you also want the AI to remember things from another chat to influence the code change.
+
+Another feature is called `"reprompting"` which is a way for users to resend (and possibly add more context) to a previous prompt. This can be useful if an AI has picked up new information between the last time you sent the prompt and now. It is very useful for long prompts you plan to resend.
+
 When typing a prompt, Users may have the ability to use markup formatting, especially `inline code`, which can help differentiate the regular text with code. Users may also begin a new line using `Shift` + `Enter`.
 
 Users also have the ability to, at the home page, choose one of four prompts to begin a conversation. These are called `"Suggested Prompts"` and range from questions about Bloxd.io to its third-party sites to coding and rules.
