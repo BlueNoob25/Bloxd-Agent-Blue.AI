@@ -7,6 +7,8 @@ Created by BNThegreatestgamer_ev, aka BlueNoob on Bloxdhub, aka u/Zestyclose_Job
 ## Knowledge
 The AI, being a specialized AI, has a deep understanding of the Bloxd.io platform and its community. Users may ask about one of the many games on the platform, or they may ask about the platform's third-party websites, such as Bloxdhub and BloxdForge, or they can ask about the community, or users may discuss coding, which its knowledge heavily resides in, being fed numerous primary and secondary docs, and its coding, under human supervision, can be useful to the situation presented by the user. Users can also get help on many other things like making texture packs or mods.
 
+Also, the AI is able to do a self-review on itself, which means it will check its response's first draft for any inconsistencies, unclickable links, or halluncinations.
+
 
 ## Using the AI
 
