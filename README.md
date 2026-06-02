@@ -1,3 +1,5 @@
+<img width="872" height="372" alt="Post_Media_6a07785c884d1" src="https://github.com/user-attachments/assets/4044769b-28bc-4fcc-8270-dc9e35d88173" />
+
 # Bloxd-Agent-Blue.AI
 The official GitHub repository for the upcoming biggest Bloxd.io AI, Bloxd Agent Blue!
 
