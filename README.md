@@ -69,10 +69,10 @@ This feature allows users to have a short response from the AI instead of a long
 ### Suggested Prompts
 When enabled, there will be a set of 4 entry prompts that users can choose to begin a conversation with the AI. Currently these are static and do not change, but hopefully in the future these will become more versatille.
 ### Taglines
-Simple taglines that will be randomly chosen and will be displayed at the front page. The `reload` button can display a random tagline.
+Simple taglines that will be randomly chosen and will be displayed at the front page upon loading. The `reload` button can also display a random tagline.
 
 Current taglines (4 in total):
- - "Your AI assistant for everything Bloxdhub & Bloxd.io"
+ - "Your AI assistant for everything Bloxdhub & Bloxd.io" (Before the other taglines, this was the only one)
  - "Bloxdly's more agentic competition"
  - "Ask me anything Bloxd, or don't. Your choice."
  - "Tips? I am tips."
