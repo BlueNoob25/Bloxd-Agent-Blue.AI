@@ -19,6 +19,9 @@ The AI, being a specialized AI, has a deep understanding of the Bloxd.io platfor
 
 Also, the AI is able to do a self-review on itself, which means it will check its response's first draft for any inconsistencies, unclickable links, or halluncinations.
 
+<img width="1366" height="768" alt="Screenshot 2026-06-03 5 36 55 PM" src="https://github.com/user-attachments/assets/4fe9f043-64c5-432c-a1a1-33f393392563" />
+
+*The Homepage*
 
 ## Using the AI
 
@@ -37,7 +40,11 @@ As the name suggests, when this mode is selected the AI will guide users on Blox
 When this mode is selected, users can give the AI a specific post on any social media site that they have questions about, and the AI will break it down and explain what the post creator's intent may have been on each part, as well as suggesting comments users can make on the post.
 ### Mod Constructor (suggested by XxDRAGON_OPxX)
 When this mod is enabled, users can type an idea for a Bloxd.io mod and the AI will bring it to life! It will provide the code, as well as suggesting a title and description, along with a thumbnail idea and 3 image ideas.
+#
+<img width="580" height="262" alt="Screenshot 2026-06-03 5 37 08 PM" src="https://github.com/user-attachments/assets/4f4cc6cf-5d14-4dd7-87d4-81636d2957d5" />
 
+*The prompt box, featuring the 4 modes, the connectors, the `"Update Memory"` button, and the `"Prefs"` button in its off state.*
+#
 ## Features
 
 There is a separate page called [`"Script Editor"`](https://bloxd-agent-blue.base44.app/script-editor) that allows users to edit their code, and then simply ask the AI directly on the sidebar to edit the code, give suggestions, package it into a mod, or just describe it without the hassle of copying and pasting after each edit.
@@ -50,8 +57,24 @@ When typing a prompt, Users may have the ability to use markup formatting, espec
 
 Users also have the ability to, at the home page, choose one of four prompts to begin a conversation. These are called `"Suggested Prompts"` and range from questions about Bloxd.io to its third-party sites to coding and rules.
 
-There is also a sidebar that allows users to access their previous live and archived chats and rename them.
+Simple taglines that will be randomly chosen and will be displayed at the front page upon loading. The `reload` button can also display a random tagline.
 
+Current homepage taglines (4 in total):
+ - "Your AI assistant for everything Bloxdhub & Bloxd.io" (Before the other taglines, this was the only one)
+ - "Bloxdly's more agentic competition"
+ - "Ask me anything Bloxd, or don't. Your choice."
+ - "Tips? I am tips."
+
+There is also a sidebar that allows users to access their previous live and archived chats and rename them.
+#
+<img width="683" height="384" alt="Screenshot 2026-06-03 5 39 41 PM" src="https://github.com/user-attachments/assets/c5e1240e-389e-41ad-b06f-fdea1ddc42d8" />
+
+*The Script Editor*
+
+<img width="114" height="384" alt="Screenshot 2026-06-03 5 39 18 PM" src="https://github.com/user-attachments/assets/8c73a202-46eb-4949-8942-968cf2ad1c5f" />
+
+*The Sidebar*
+#
 ## Settings
 Another feature is the Settings tab which allows users to customize their experience with Bloxd Agent Blue. The following is in settings:
 ### Themes
@@ -68,11 +91,8 @@ When enabled, parts of the UI will be partially transparent. The current bugs ar
 This feature allows users to have a short response from the AI instead of a long one. There will be a button at the bottom of the response where users can see the longer, full response. Users can switch between short and long anytime when this mode is on.
 ### Suggested Prompts
 When enabled, there will be a set of 4 entry prompts that users can choose to begin a conversation with the AI. Currently these are static and do not change, but hopefully in the future these will become more versatille.
-### Taglines
-Simple taglines that will be randomly chosen and will be displayed at the front page upon loading. The `reload` button can also display a random tagline.
+#
+<img width="117" height="384" alt="Screenshot 2026-06-03 5 37 58 PM" src="https://github.com/user-attachments/assets/1dd7bfdc-768a-40be-afe3-adf74a49f3e9" />
 
-Current taglines (4 in total):
- - "Your AI assistant for everything Bloxdhub & Bloxd.io" (Before the other taglines, this was the only one)
- - "Bloxdly's more agentic competition"
- - "Ask me anything Bloxd, or don't. Your choice."
- - "Tips? I am tips."
+*The Settings Tab*
+#
