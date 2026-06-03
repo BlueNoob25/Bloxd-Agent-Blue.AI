@@ -40,14 +40,15 @@ As the name suggests, when this mode is selected the AI will guide users on Blox
 When this mode is selected, users can give the AI a specific post on any social media site that they have questions about, and the AI will break it down and explain what the post creator's intent may have been on each part, as well as suggesting comments users can make on the post.
 ### Mod Constructor (suggested by XxDRAGON_OPxX)
 When this mod is enabled, users can type an idea for a Bloxd.io mod and the AI will bring it to life! It will provide the code, as well as suggesting a title and description, along with a thumbnail idea and 3 image ideas.
-#
+###
 <img width="580" height="262" alt="Screenshot 2026-06-03 5 37 08 PM" src="https://github.com/user-attachments/assets/4f4cc6cf-5d14-4dd7-87d4-81636d2957d5" />
 
 *The prompt box, featuring the 4 modes, the connectors, the `"Update Memory"` button, and the `"Prefs"` button in its off state.*
-#
+###
 ## Features
 
 There is a separate page called [`"Script Editor"`](https://bloxd-agent-blue.base44.app/script-editor) that allows users to edit their code, and then simply ask the AI directly on the sidebar to edit the code, give suggestions, package it into a mod, or just describe it without the hassle of copying and pasting after each edit.
+*For more info on the Script Editor, scroll down.*
 
 Users have the ability to connect one or multiple chats to a current one for a single response. This feature can be accessed by clicking the `"Update Memory"` button above the prompt box. An example use of this feature can be if you want to make a code change from one chat but you also want the AI to remember things from another chat to influence the code change.
 
@@ -65,16 +66,15 @@ Current homepage taglines (4 in total):
  - "Ask me anything Bloxd, or don't. Your choice."
  - "Tips? I am tips."
 
+Current `Script Editor` taglines:
+ - "Bloxd coding sucks half the time. Thankfully there's an agent for that now."
+
 There is also a sidebar that allows users to access their previous live and archived chats and rename them.
-#
-<img width="683" height="384" alt="Screenshot 2026-06-03 5 39 41 PM" src="https://github.com/user-attachments/assets/c5e1240e-389e-41ad-b06f-fdea1ddc42d8" />
-
-*The Script Editor*
-
+###
 <img width="114" height="384" alt="Screenshot 2026-06-03 5 39 18 PM" src="https://github.com/user-attachments/assets/8c73a202-46eb-4949-8942-968cf2ad1c5f" />
 
 *The Sidebar*
-#
+###
 ## Settings
 Another feature is the Settings tab which allows users to customize their experience with Bloxd Agent Blue. The following is in settings:
 ### Themes
@@ -91,8 +91,16 @@ When enabled, parts of the UI will be partially transparent. The current bugs ar
 This feature allows users to have a short response from the AI instead of a long one. There will be a button at the bottom of the response where users can see the longer, full response. Users can switch between short and long anytime when this mode is on.
 ### Suggested Prompts
 When enabled, there will be a set of 4 entry prompts that users can choose to begin a conversation with the AI. Currently these are static and do not change, but hopefully in the future these will become more versatille.
-#
+####
 <img width="117" height="384" alt="Screenshot 2026-06-03 5 37 58 PM" src="https://github.com/user-attachments/assets/1dd7bfdc-768a-40be-afe3-adf74a49f3e9" />
 
 *The Settings Tab*
-#
+###
+# The Script Editor
+This is a dedicated page for coding, with the help of the AI agent. It was built to reduce the inconvenience that came with constantly copying and pasting code after each edit, whether by the user or the AI. Instead, users can paste and/or edit their code here, and they can also decide to use the sidebar to communicate with the AI and have their code be edited by it.
+
+Here, you can also copy the code, or save it as a `.js` or `.txt` file.
+###
+<img width="683" height="384" alt="Screenshot 2026-06-03 5 39 41 PM" src="https://github.com/user-attachments/assets/c5e1240e-389e-41ad-b06f-fdea1ddc42d8" />
+
+*The Script Editor*
