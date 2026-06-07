@@ -122,7 +122,8 @@ There is a glitch where the Diamond spawns and you cannot attack it. This can ha
 ## Gold System
 The **Gold System** is designed for buying **Kits** mentioned below. **Gold** is obtained when the game ends or after a kill, and if you accomplish any Human tasks but became a Zombie, you still get the rewards when the game ends. When you receive a duplicated kit, you will get a respective amount of Gold of the other type. Note that some tasks do not require winning at all. A recent update made so that you have to at least kill 1 Human to get the Zombie win objective.
 
-Human Gold (Blue)	| Goal	| Zombie Gold (Green)	| Granting Time	| How to obtain
+| Human Gold (Blue)	| Goal	| Zombie Gold (Green)	| Granting Time	| How to obtain |
+| :---: | :---: | :---: | :---: | :---: |
 25	| Escape the Zombies	| 5	| Game end	| Reach the final obstacle
 5	| Kill the first Zombie	| 5	| After kill	| Shoot it first
 5	| Be the last three humans standing (not counting last one)	| 5	| Game end	| Be one of the three last humans
@@ -139,19 +140,10 @@ N/A	| Be one of the first Zombies	| 2	| Game end	| Assigned as a zombie
 You can get one random Human kit for 100 Human Coins and a Zombie kit for 100 Zombie Coins.
 
 Zombie Kits	
-Kit Name	| Rarity	| Kit Description	| Health Points	| Damage Dealt Per Hit	| Speed Boost	| Special Abilities	| Pros |	Cons	| Counter of this kit/Kit that counters others	| Tier	| Strategies/Tips	
-Regular	Common (55%)	The regular zombie.	100	27 and critical hit 36	Speed I (not visible)	The balanced stats allow you to do anything, although without any special skills.	Balanced, and you can kill a human in 3 hits without critical hits or special abilities, unlike the Puker.	Doesn’t have any drawbacks, but is heavily outclassed by Puker for having no special abilities	Counter: Human with AK-47
-Counter to others: Human with low health.
-
-Tier B-
-The Regular Zombie, although it can be good at hunting Juggernauts does not have the ability of Puker, which is similar.
-
-Play normally, as the main unit. It is useful for destroying humans, and also for killing Juggernauts.	
-Sprinter	The fast zombie, is faster but has less health and damage.	60	15 and critical hit 20	Speed II (not visible)	Extra speed but with less health and less damage, skinny body allowing dodges.	Really quick for chasing and running. Often great for killing Scouts.	Low health and low damage.	Counter: Swordsman and its variants.
-Counter to others: Humans with snipers.
-
-Tier A The players are usually new or bots, and they can't shoot these zombies well, plus it's fast.	Although you have lower damage and health, you can move around quickly and ambush the Humans easily. Unfortunately, you will not do a lot of damage and outclassed by Swordsman.
-Besides only doing 15 damage, it's also really impossible to fight a Juggernaut with effect protection (by a Chemist) exchanging blows (17 attacks needed to kill) (and it will kill you in 12 hits).
+| Kit Name	| Rarity	| Kit Description	| Health Points	| Damage Dealt Per Hit	| Speed Boost	| Special Abilities	| Pros |	Cons	| Counter of this kit/Kit that counters others	| Tier	| Strategies/Tips	|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+Regular	| Common (55%)	| The regular zombie.	| 100	| 27 and critical hit 36	| Speed I (not visible)	| The balanced stats allow you to do anything, although without any special skills.	| Balanced, and you can kill a human in 3 hits without critical hits or special abilities, unlike the Puker.	| Doesn’t have any drawbacks, but is heavily outclassed by Puker for having no special abilities	| Counter: Human with AK-47. Counter to others: Human with low health. | Tier B- The Regular Zombie, although it can be good at hunting Juggernauts does not have the ability of Puker, which is similar. | Play normally, as the main unit. It is useful for destroying humans, and also for killing Juggernauts.	|
+Sprinter	| Common (55%) | The fast zombie, is faster but has less health and damage.	| 60	| 15 and critical hit 20 |	Speed II (not visible)	| Extra speed but with less health and less damage, skinny body allowing dodges.	| Really quick for chasing and running. Often great for killing Scouts.	| Low health and low damage.	| Counter: Swordsman and its variants. Counter to others: Humans with snipers. | Tier A - The players are usually new or bots, and they can't shoot these zombies well, plus it's fast.	| Although you have lower damage and health, you can move around quickly and ambush the Humans easily. Unfortunately, you will not do a lot of damage and outclassed by Swordsman. Besides only doing 15 damage, it's also really impossible to fight a Juggernaut with effect protection (by a Chemist) exchanging blows (17 attacks needed to kill) (and it will kill you in 12 hits).
 
 Tank	Rare (25%)	The tank zombie, has more health and damage but slower.	200	36 and critical hit 48	Slowness I (not visible)	Extra health and damage but with slower movement, the big hitbox also helps the team.	Has a huge health amount.	Really slow and has a large hitbox so it can be attacked easily. Failing to land a critical hit will make that doesn't leave the human almost dead after two hits.	Counter: Humans with AK-47s or AWPs at long range.
 Counter to others: Humans up close or Swordmans.
