@@ -139,173 +139,80 @@ N/A	| Be one of the first Zombies	| 2	| Game end	| Assigned as a zombie
 ## Kits
 You can get one random Human kit for 100 Human Coins and a Zombie kit for 100 Zombie Coins.
 
-Zombie Kits	
+### Zombie Kits	
 | Kit Name	| Rarity	| Kit Description	| Health Points	| Damage Dealt Per Hit	| Speed Boost	| Special Abilities	| Pros |	Cons	| Counter of this kit/Kit that counters others	| Tier	| Strategies/Tips	|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 Regular	| Common (55%)	| The regular zombie.	| 100	| 27 and critical hit 36	| Speed I (not visible)	| The balanced stats allow you to do anything, although without any special skills.	| Balanced, and you can kill a human in 3 hits without critical hits or special abilities, unlike the Puker.	| Doesn’t have any drawbacks, but is heavily outclassed by Puker for having no special abilities	| Counter: Human with AK-47. Counter to others: Human with low health. | Tier B- The Regular Zombie, although it can be good at hunting Juggernauts does not have the ability of Puker, which is similar. | Play normally, as the main unit. It is useful for destroying humans, and also for killing Juggernauts.	|
 Sprinter	| Common (55%) | The fast zombie, is faster but has less health and damage.	| 60	| 15 and critical hit 20 |	Speed II (not visible)	| Extra speed but with less health and less damage, skinny body allowing dodges.	| Really quick for chasing and running. Often great for killing Scouts.	| Low health and low damage.	| Counter: Swordsman and its variants. Counter to others: Humans with snipers. | Tier A - The players are usually new or bots, and they can't shoot these zombies well, plus it's fast.	| Although you have lower damage and health, you can move around quickly and ambush the Humans easily. Unfortunately, you will not do a lot of damage and outclassed by Swordsman. Besides only doing 15 damage, it's also really impossible to fight a Juggernaut with effect protection (by a Chemist) exchanging blows (17 attacks needed to kill) (and it will kill you in 12 hits).
+Tank	| Rare (25%)	| The tank zombie, has more health and damage but slower.	| 200	| 36 and critical hit 48	| Slowness I (not visible)	| Extra health and damage but with slower movement, the big hitbox also helps the team. | Has a huge health amount.	| Really slow and has a large hitbox so it can be attacked easily. Failing to land a critical hit will make that doesn't leave the human almost dead after two hits.	| Counter: Humans with AK-47s or AWPs at long range. Counter to others: Humans up close or Swordmans. | Tier A - He's very good at blocking attacks, although he's not extremely good because he can be easily killed at long range. | Try blocking some damage for the team, or get close to deal massive damage, try to land critical hits, you'll do 48 damage and you can kill with 3 hits. Unfortunately, it's easy to kill it with an AK-47, Minigun, M16, or AWP.	|
+Puker	| Epic (15%)	| Press f to puke acid at the humans!	| 100	| 24 damage per hit and critical hit 32, if it's a ranged acid attack is 21 damage or 24 rarely.	| Speed I (not visible)	| If the Zombie presses [F], he spits a mini version of Green Ceramic as his "acidic puke," and upon impact it gives Humans near it the Poison II effect. It also gradually heals to full HP any Zombies impacted!	| Can add pressure while having good stats	| Kills may get stolen and you need 5 hits without special attacks due to the 24 damage unlike regular zombie. Besides having a longer head, which makes you vulnerable to being shot when you hide.	| Counter: Humans who can shoot from a sufficient distance. Counter to others: Humans who are close and trying to regenerate. | Tier S - It's a good kit for support or extra damage, although if you have bad aim, you'll find it a bad kit because you won't be able to move for getting distracted by shooting. | Used to be the worse kit but is now it is considered one of the best kits, because poison wasn't nerfed. Unfortunately, you'll need one more normal hit to kill humans because they do less damage than regular zombies. You can deal about 21 or 24 damage with your ranged acid attack in total. |
+Bomber	| Legendary (5%)	| The explosive zombie, drops a bomb when killed.	| 80	| 18 damage per hit and 24 critical hit, without explode, but W explode, varies for explosive (+500 high damage)	| None	| Drops a Moonstone Explosive from above when killed. Note that when you die, you can also damage your teammates unlike humans.	| Can quickly clear a space for Zombies to rest, or kill multiple Humans instantly.	| Can deal damage to teammates - some teammates with lack of skill can be destructive to their team by blowing up other Zombies. It also has low stats for fighting against Swordsman.	| Counter: Any human who uses weapons from a distance. Counter to others: Humans in close proximity or in enclosed spaces. Two Bombers in a line can make a TNT cannon to eliminate humans from very far away. | Tier S - Although it seems nerfed and bad, if you're a good player you can protect yourself with a Tank and then explode where the humans are. | You can actually instantly kill a Human damage upon death. Get close to a group of Humans, away from other Zombies, to force them to split. Once that happens, your comrades will have an easy time killing them. It used to be considered very broken but has now been nerfed; its bomb can still be an instant kill, which is why it's one of the best kits. Plus, cornering Humans at certain extraction points can really eliminate them very quickly. It was nerfed and it depends heavily on the map and human errors, and also because it has little life to explode where humans and low damage per hit.	|
 
-Tank	Rare (25%)	The tank zombie, has more health and damage but slower.	200	36 and critical hit 48	Slowness I (not visible)	Extra health and damage but with slower movement, the big hitbox also helps the team.	Has a huge health amount.	Really slow and has a large hitbox so it can be attacked easily. Failing to land a critical hit will make that doesn't leave the human almost dead after two hits.	Counter: Humans with AK-47s or AWPs at long range.
-Counter to others: Humans up close or Swordmans.
-
-Tier A-
-He's very good at blocking attacks, although he's not extremely good because he can be easily killed at long range.
-
-Try blocking some damage for the team, or get close to deal massive damage, try to land critical hits, you'll do 48 damage and you can kill with 3 hits. Unfortunately, it's easy to kill it with an AK-47, Minigun, M16, or AWP.	
-Puker	Epic (15%)	Press f to puke acid at the humans!	100	24 damage per hit and critical hit 32, if it's a ranged acid attack is 21 damage or 24 rarely.	Speed I (not visible)	If the Zombie presses [F], he spits a mini version of Green Ceramic as his "acidic puke," and upon impact it gives Humans near it the Poison II effect. It also gradually heals to full HP any Zombies impacted!	Can add pressure while having good stats	Kills may get stolen and you need 5 hits without special attacks due to the 24 damage unlike regular zombie. Besides having a longer head, which makes you vulnerable to being shot when you hide.	Counter: Humans who can shoot from a sufficient distance.
-Counter to others: Humans who are close and trying to regenerate.
-
-Tier S
-It's a good kit for support or extra damage, although if you have bad aim, you'll find it a bad kit because you won't be able to move for getting distracted by shooting.
-
-Used to be the worse kit but is now it is considered one of the best kits, because poison wasn't nerfed.
-Unfortunately, you'll need one more normal hit to kill humans because they do less damage than regular zombies. You can deal about 21 or 24 damage with your ranged acid attack in total.
-
-Bomber	Legendary (5%)	The explosive zombie, drops a bomb when killed.	80	18 damage per hit and 24 critical hit, without explode, but W explode, varies for explosive (+500 high damage)	None	Drops a Moonstone Explosive from above when killed. Note that when you die, you can also damage your teammates unlike humans.	Can quickly clear a space for Zombies to rest, or kill multiple Humans instantly.	Can deal damage to teammates - some teammates with lack of skill can be destructive to their team by blowing up other Zombies. It also has low stats for fighting against Swordsman.	Counter: Any human who uses weapons from a distance.
-Counter to others: Humans in close proximity or in enclosed spaces. Two Bombers in a line can make a TNT cannon to eliminate humans from very far away.
-
-Tier S
-Although it seems nerfed and bad, if you're a good player you can protect yourself with a Tank and then explode where the humans are.
-
-You can actually instantly kill a Human damage upon death. Get close to a group of Humans, away from other Zombies, to force them to split. Once that happens, your comrades will have an easy time killing them. It used to be considered very broken but has now been nerfed; its bomb can still be an instant kill, which is why it's one of the best kits. Plus, cornering Humans at certain extraction points can really eliminate them very quickly. It was nerfed and it depends heavily on the map and human errors, and also because it has little life to explode where humans and low damage per hit.	
-Human Kits	
-Kit Name	Rarity	Kit Description	Health Points	Damage Dealt Per Hit	Speed Boost	Starting Inventory	Pros	Cons	Counter of this kit/Kit that counters others	Tier	Strategies/Tips	
-Regular	Common (55%)	The regular human	100	3
-(4 per critical hit)
-
-M1911
-This kit is mediocre (no significant pros or cons)	Counter: Regular zombies or tanks near.
-Counter of others: Zombie tank if it's far away.
-
-Tier D	Use it only if you only have this and the Juggernaut and you want to go faster. Only the real pros will stick with this, as it is worse then most kits. Use only for training skills but not for winning.	
-Veteran	Starts with an AK-47	
-AK-47
-Head start, allows door rushing as you genuinely do not have to buy other guns if played well	AK-47 can outclass other guns due to its damage and handling. If you're good at killing zombies, choosing this kit would mean missing out on other kits where you could also get an AK-47, which ends up making it a good kit bordering on mediocre.	Counter: Zombies with a lot of health to resist with the support of others.
-Counter of others: Normal zombies and any zombie in a bad position.
-
-Tier C	Really good if you are an auto-main. Get a head start from the rest. You can also skip MP40 if you are confident and skilled, going straight for M16. This kit can easily cook Zombies and get first kill if used correctly.	
-Medic	Has healing potions to heal themselves and others	
-M1911
-2 Splash Instant Health Potions
-Potions will be recharged after some time.
-
-Has a faster reclaiming rate with potions compared to chemist, also has tanking potentials if paired with Juggernaut.	Does not have other buffs like Chemist, although Chemist can also heal.	Counter: Zombie tank nearby doing damage.
-Counter of others: Eliminate zombies from a distance and heal humans.
-
-Tier S	Powerful if used correctly. Basically unkillable with dodging and timing. If you have a laggy device then avoid using this kit as the potions may cause insane lag, which makes you an easy target for the Zombies. Recommended to use both potions simultaneously, since they regenerate only after both have been used.	
-Swordsman	Gets an Iron Sword to slice up zombies	
-M1911
-Iron Sword
-Can survive up close. The only advantage over the Advanced Swordsman would be to weaken the Zombie Bomber to very little health without it exploding.	Worse then Advanced Swordsman, and it will be useless against a tank zombie because it will do more damage than you.	Counter: Normal zombies or tanks.
-Counter of others: Zombie sprinters.
-
-Tier B	A really good kit with close and long range abilities only outclassed by Advanced Swordsman. Abandon when that is obtained. Kill the Zombies with the sword if they are too close for comfort! Hitting Zombies and diamonds with your sword grants points.
-Use only if you have decent PvP abilities.
-
-Advanced Swordsman	Rare (25%)	Gets a Diamond Sword to slice up zombies with ease	
-M1911
-Diamond Sword
-Can kill as many as wanted	Not helpful if bad at PvP, and can easily die if abandoned by teammates, and a zombie tank could kill you if you're not good at PvP.	Counter: Tank Zombies with a full health.
-Counter of others: Zombie sprinters and bombers/regulares/pukers if you escape quickly.
-
-Tier A	Same stratagy as the swordsman, except go stab zombies whenever you want, since the diamond sword is OP, even against the 200-HP Tank. You can kill them in a matter of seconds in close combat.	
-Chemist	Has a collection of potions.	
-M1911
-1 Splash Instant Damage Potion II (can deal damage to self but not teammates)
-1 Splash Instant healing potion
-1 Splash Defense Potion
-1 Splash Speed Potion
-Potions will be recharged after some time.
-
-Has many buffs that can help zombies or humans	Fewer healing potions that the Medic and may be targeted easily if seen using potions as this is one of the best kits. Additionally, you might accidentally throw a speed or resistance potion at a zombie.	Counter: Organized zombies of high damage and some sprinters, or focused zombies.
-Counter of others: Normal zombies/sprinters or tanks that try to attack him and use his speed, healing, damage or resistance potion.
-
-Tier S	Shares healing with Medic, although also has other utilities potential. Really good overall. Speed potion is useful while retreating, while the instant damage is really good at area control.	
-Juggernaut	Become larger, has more health and damage but is slower	150	4 (5 per critical hit)	Slowness I (does not explicitly appear)	
-M1911
-150 HP
-125% damage
-Can deal tank damage and hold hallways.
-It can be really damage in melee PvP against a zombie Sprinter.
-
-May be targeted as massive body may work as an easy target for Pukers to snipe, It's also slow, which makes it easy even for a Zombie Sprinter, Bomber, Regular and Puker, except for the Tank, which is slow. It's bigger, so it's harder to hide.	Counter: Zombie pukers or sprinters making critical hits.
-Counter of others: Tank zombies y any zombie in a straight line, using their weapon to do extra damage.
-
-Tier B+	Great kit with shielding potential but will be targeted, time medic heals. The Damage potential allows you to instant kill Zombies on a headshot with a TAR-21, and still deal massive base damage, making hall fights and elevator guarding easier.
-When you find a Chemist, you can back your slowness up with their speed, and be unkillable with their defense! There is also a bug with this kit, making it almost unkillable. See Trivia for the bug. (bugs with this kit are patched).
-
-Scout	Epic (15%)	Gets a sniper rifle to pick off zombies from a distance	100	4
-(5 per critical hit)
-
-AWP
-Can snipe Diamonds from far away, pretty good on hall fights with headshots	Zombies may ambush you as you are scoping. And it disappears to be a Minigun when you're the last human, being just like a Regular.	Counter: Sprinter zombies.
-Counter of others: Tank zombies and medium zombies.
-
-Tier B	Massive damage and finds niche use in rooftop sniping (to floor, but does require teammates controlling) and hall fights. It is the second best gun when it comes to holding the elevator as it has a slower firerate that TAR-21.	
-Bombardier	Legendary (5%)	Can drop bombs to blow up zombies	
-M1911
-Has a Moonstone Explosive that can be placed. It only damages zombies, not humans.
-Great area control and hall fight potential	Bombs can be hard to land hits. And it can launch Bomber zombie bombs at humans if it explodes behind them and they lose the game.	Counters: High-health zombies that resist explosions or pukers who don't need to get close.
-Counter of others: Zombie sprinters or medium zombies grouped, eliminating them with explosions.
-
-Tier B	Used to be the most worst kit ever to drop a bomb upon death. Now it is really competitive on controlling areas.	
+### Human Kits	
+| Kit Name	| Rarity	| Kit Description	| Health Points	| Damage Dealt Per Hit	| Speed Boost	| Starting Inventory	| Pros	| Cons	| Counter of this kit/Kit that counters others	| Tier	| Strategies/Tips
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+Regular	| Common (55%)	| The regular human	| 100	| 3 (4 per critical hit) | 3 (4 per critical hit) | M1911 | This kit is mediocre (no significant pros or cons)	| This kit is mediocre (no significant pros or cons)	| Counter: Regular zombies or tanks near. Counter of others: Zombie tank if it's far away. | Tier D | Use it only if you only have this and the Juggernaut and you want to go faster. Only the real pros will stick with this, as it is worse then most kits. Use only for training skills but not for winning.	|
+Veteran	| Common (55%) | Starts with an AK-47	| 100	| 3 (4 per critical hit) | 3 (4 per critical hit) | AK-47 | Head start, allows door rushing as you genuinely do not have to buy other guns if played well	| AK-47 can outclass other guns due to its damage and handling. If you're good at killing zombies, choosing this kit would mean missing out on other kits where you could also get an AK-47, which ends up making it a good kit bordering on mediocre. | Counter: Zombies with a lot of health to resist with the support of others. Counter of others: Normal zombies and any zombie in a bad position. | Tier C	| Really good if you are an auto-main. Get a head start from the rest. You can also skip MP40 if you are confident and skilled, going straight for M16. This kit can easily cook Zombies and get first kill if used correctly.	|
+Medic	| Common (55%) | Has healing potions to heal themselves and others	| 100	| 3 (4 per critical hit) | 3 (4 per critical hit) | M1911, 2 Splash Instant Health Potions. Potions will be recharged after some time. | Has a faster reclaiming rate with potions compared to chemist, also has tanking potentials if paired with Juggernaut. | Does not have other buffs like Chemist, although Chemist can also heal.	| Counter: Zombie tank nearby doing damage. Counter of others: Eliminate zombies from a distance and heal humans. | Tier S	| Powerful if used correctly. Basically unkillable with dodging and timing. If you have a laggy device then avoid using this kit as the potions may cause insane lag, which makes you an easy target for the Zombies. Recommended to use both potions simultaneously, since they regenerate only after both have been used.	|
+Swordsman	| Common (55%) | Gets an Iron Sword to slice up zombies	| 100	| 3 (4 per critical hit) | 3 (4 per critical hit) | M1911, Iron Sword | Can survive up close. The only advantage over the Advanced Swordsman would be to weaken the Zombie Bomber to very little health without it exploding.	| Worse then Advanced Swordsman, and it will be useless against a tank zombie because it will do more damage than you.	| Counter: Normal zombies or tanks. Counter of others: Zombie sprinters. | Tier B	| A really good kit with close and long range abilities only outclassed by Advanced Swordsman. Abandon when that is obtained. Kill the Zombies with the sword if they are too close for comfort! Hitting Zombies and diamonds with your sword grants points. Use only if you have decent PvP abilities. |
+Advanced Swordsman	| Rare (25%)	| Gets a Diamond Sword to slice up zombies with ease	| 100	| 3 (4 per critical hit) | 3 (4 per critical hit) | M1911, Diamond Sword | Can kill as many as wanted	| Not helpful if bad at PvP, and can easily die if abandoned by teammates, and a zombie tank could kill you if you're not good at PvP.	| Counter: Tank Zombies with a full health. Counter of others: Zombie sprinters and bombers/regulares/pukers if you escape quickly. | Tier A	| Same stratagy as the swordsman, except go stab zombies whenever you want, since the diamond sword is OP, even against the 200-HP Tank. You can kill them in a matter of seconds in close combat.	|
+Chemist	| Rare (25%) | Has a collection of potions.	| 100	| 3 (4 per critical hit) | 3 (4 per critical hit) | M1911, 1 Splash Instant Damage Potion II (can deal damage to self but not teammates), 1 Splash Instant healing potion, 1 Splash Defense Potion, 1 Splash Speed Potion. Potions will be recharged after some time. | Has many buffs that can help zombies or humans	| Fewer healing potions that the Medic and may be targeted easily if seen using potions as this is one of the best kits. Additionally, you might accidentally throw a speed or resistance potion at a zombie.	| Counter: Organized zombies of high damage and some sprinters, or focused zombies. Counter of others: Normal zombies/sprinters or tanks that try to attack him and use his speed, healing, damage or resistance potion. | Tier S	| Shares healing with Medic, although also has other utilities potential. Really good overall. Speed potion is useful while retreating, while the instant damage is really good at area control.	|
+Juggernaut	| Rare (25%) | Become larger, has more health and damage but is slower	| 150	| 4 (5 per critical hit) | Slowness I (does not explicitly appear)	| M1911, 150 HP, 125% damage | Can deal tank damage and hold hallways. It can be really damage in melee PvP against a zombie Sprinter. | May be targeted as massive body may work as an easy target for Pukers to snipe, It's also slow, which makes it easy even for a Zombie Sprinter, Bomber, Regular and Puker, except for the Tank, which is slow. It's bigger, so it's harder to hide.	| Counter: Zombie pukers or sprinters making critical hits. Counter of others: Tank zombies y any zombie in a straight line, using their weapon to do extra damage. | Tier B+	| Great kit with shielding potential but will be targeted, time medic heals. The Damage potential allows you to instant kill Zombies on a headshot with a TAR-21, and still deal massive base damage, making hall fights and elevator guarding easier. When you find a Chemist, you can back your slowness up with their speed, and be unkillable with their defense! There is also a bug with this kit, making it almost unkillable. See Trivia for the bug. (bugs with this kit are patched). |
+Scout	| Epic (15%)	| Gets a sniper rifle to pick off zombies from a distance	| 100	| 4 (5 per critical hit) | 4 (5 per critical hit) | AWP | Can snipe Diamonds from far away, pretty good on hall fights with headshots	| Zombies may ambush you as you are scoping. And it disappears to be a Minigun when you're the last human, being just like a Regular.	| Counter: Sprinter zombies. Counter of others: Tank zombies and medium zombies. | Tier B	| Massive damage and finds niche use in rooftop sniping (to floor, but does require teammates controlling) and hall fights. It is the second best gun when it comes to holding the elevator as it has a slower firerate that TAR-21.	
+Bombardier	| Legendary (5%)	| Can drop bombs to blow up zombies	| 100	| 4 (5 per critical hit) | 4 (5 per critical hit) | M1911, Has a Moonstone Explosive that can be placed. It only damages zombies, not humans. | Great area control and hall fight potential	| Bombs can be hard to land hits. And it can launch Bomber zombie bombs at humans if it explodes behind them and they lose the game.	| Counters: High-health zombies that resist explosions or pukers who don't need to get close. Counter of others: Zombie sprinters or medium zombies grouped, eliminating them with explosions. | Tier B	| Used to be the most worst kit ever to drop a bomb upon death. Now it is really competitive on controlling areas.	
 
 
-Tips
-Unloaded block render (possibly)
-
-This section is a work in progress
-This section is incomplete; you can help the Bloxd.io Wiki by expanding the section.
-Humans
-Spawn-camp at the first obstacle, but don’t camp too near (or on) the spawn point.
-Buy the AK-47 at the start (if your kit has the M1911 as the default weapon), then skip the MP40 and buy the M16. This way, you can save more points to unlock obstacles.
-Stop spawn-camping (and retreat) when more than half of the humans retreated from the obstacle, and the zombies are getting closer to you.
-When a zombie steps on a spawn point where humans are shooting, get out of there immediately or you will die because it will respawn right there.
-Stay close to other humans.
-Do not hoard points. Allocate the points that you are going to buy guns, and use the rest of them to unlock obstacles.
-Zombies
-Do not give up on attacking the humans, no matter how hard it sounds.
-Zombies have 3 seconds of invulnerability each time they spawn/respawn, And that shield can no longer be broken, but the zombies can always move, although the shield breaks when they attack.
-Once one zombie reaches the spawn (after extraction points, in Bunker it's further along sometimes), the spawn is set for that specific zombie. Joining during a game will usually place your spawn one point behind the last zombie before you joined.
-If you have multiple kits unlocked, use them according to the situation to kill more humans and win.
-If you're too far away from the humans, you can leave the lobby and rejoin to teleport to the last checkpoint unlocked by humans.
-Trivia
-Old Infection Trivia
-Humans used to be able to drop their Guns, meaning that another player who is a Zombie can pick it up, therefore obtaining a gun, and kill humans with a single shot. Zombies can also drop their compasses.
-When a human had a zombie's compass, the compass would go crazy or point back to the same human since technically they were the closest human.
-Bomber Zombies used to have 150 HP and Speed I when it was initially released before it was nerfed to 80 HP as it was too overpowered.
-The AK-47 was nerfed because of this gamemode, as it gave humans a great advantage during early game.
-The range of zombies was increased after there was a bug that allowed Humans to stand on top of a car in the parking lot of the Hospital, just out of range and infinitely kill zombies.
-Humans used to be able to win if all zombies leave the game.
-You used to be able to "break" Blocks as if you were in a protected chunk. It is now fixed, so skipping using this method no longer works.
-There was a bug where you could not throw Potions when using Medic and Chemist. It has since been fixed.
-There was a bug that people in spectator mode can hurt zombies, making like a boost for humans to kill.
-The default gun, the M1911 dealt 350 damage to zombies. Since there was no point system immediately after release, Zombies would always win anyway.
-When Infection was just released, as there were no coins, all Zombie kits were available for use and there were no Human kits. Some Zombie kits were also not implemented yet (like Puker).
-For every health point you dealt to Zombies, you earned 1 point. This was changed to the 25 and 100 point awarding scheme we know today.
-You could get an Aura XP Orb rarely from killing zombies/humans due to them being players, but this was useless for Infection.
-Earlier when World Code was released, you could edit Infection with code in private worlds, like the case that happened to the Infection world "zombie_solo", they discovered they could use commands Regarding effects, even using Toxin Ball, it was discovered that RPGs did not destroy the map, And when a zombie uses snowballs as an attack, it causes 27 damage in normal zombies, or the same amount of damage depending on the zombie, as it affects its damage multiplier; this bug has now been patched.
-All-Time Infection Trivia
-Infection it was always humans versus zombies.
-Unlike the other "Ranked" game modes, this game mode has no risk of losing.
-The Chemist bug with the instant damage potion wasn't fixed for a year or more; the full information is more down.
-Zombie compasses are useless today since you can see usernames at any time unless you're crouching.
-The maps seem to follow an order, Hospital and Bunker are not in a clear order. In Subway, and from the train you go to the Airport, and from the plane to the Farm, and from the Farm it ends when humans win or zombies win.
-The Juggernaut It has advantages over the zombie Sprinter: Juggernaut has the Resistance effect (by a Chemist), the Sprinter it will take 13 hits to defeat him, while in Juggernaut it will take 12 hits to defeat the Sprinter zombie.
-There's a bug where if you launch Puker's zombie special attack, but then prevent it from finishing because a new game starts, it will say "Spit Ready" in the lobby and even reaching the next game, but it won't work.
-If you die in any way, including falling off the map, you will become a Zombie.
+## Tips (WIP section for wiki)
+### Humans
+ - Spawn-camp at the first obstacle, but don’t camp too near (or on) the spawn point.
+ - Buy the AK-47 at the start (if your kit has the M1911 as the default weapon), then skip the MP40 and buy the M16. This way, you can save more points to unlock obstacles.
+ - Stop spawn-camping (and retreat) when more than half of the humans retreated from the obstacle, and the zombies are getting closer to you.
+ - When a zombie steps on a spawn point where humans are shooting, get out of there immediately or you will die because it will respawn right there.
+ - **Stay close to other humans**.
+ - **Do not hoard points**. Allocate the points that you are going to buy guns, and use the rest of them to unlock obstacles.
+### Zombies
+ - Do not give up on attacking the humans, no matter how hard it sounds.
+ - Zombies have 3 seconds of invulnerability each time they spawn/respawn, And that shield can no longer be broken, but the zombies can always move, although the shield breaks when they attack.
+ - Once one zombie reaches the spawn (after extraction points, in Bunker it's further along sometimes), the spawn is set for that specific zombie. Joining during a game will usually place your spawn one point behind the last zombie before you joined.
+ - If you have multiple kits unlocked, use them according to the situation to kill more humans and win.
+ - If you're too far away from the humans, you can leave the lobby and rejoin to teleport to the last checkpoint unlocked by humans.
+## Trivia
+### Old Infection Trivia
+ - Humans used to be able to drop their Guns, meaning that another player who is a Zombie can pick it up, therefore obtaining a gun, and kill humans with a single shot. Zombies can also drop their compasses.
+ - When a human had a zombie's compass, the compass would go crazy or point back to the same human since technically they were the closest human.
+ - Bomber Zombies used to have 150 HP and Speed I when it was initially released before it was nerfed to 80 HP as it was too overpowered.
+ - The AK-47 was nerfed because of this gamemode, as it gave humans a great advantage during early game.
+ - The range of zombies was increased after there was a bug that allowed Humans to stand on top of a car in the parking lot of the Hospital, just out of range and infinitely kill zombies.
+ - Humans used to be able to win if all zombies leave the game.
+ - You used to be able to "break" Blocks as if you were in a protected chunk. It is now fixed, so skipping using this method no longer works.
+ - There was a bug where you could not throw Potions when using Medic and Chemist. It has since been fixed.
+ - There was a bug that people in spectator mode can hurt zombies, making like a boost for humans to kill.
+ - The default gun, the M1911 dealt 350 damage to zombies. Since there was no point system immediately after release, Zombies would always win anyway.
+ - When Infection was just released, as there were no coins, all Zombie kits were available for use and there were no Human kits. Some Zombie kits were also not implemented yet (like Puker).
+ - For every health point you dealt to Zombies, you earned 1 point. This was changed to the 25 and 100 point awarding scheme we know today.
+ - You could get an Aura XP Orb rarely from killing zombies/humans due to them being players, but this was useless for Infection.
+ - Earlier when World Code was released, you could edit Infection with code in private worlds, like the case that happened to the Infection world "zombie_solo", they discovered they could use commands Regarding effects, even using Toxin Ball, it was discovered that RPGs did not destroy the map, And when a zombie uses snowballs as an attack, it causes 27 damage in normal zombies, or the same amount of damage depending on the zombie, as it affects its damage multiplier; this bug has now been patched.
+### All-Time Infection Trivia
+ - Infection it was always humans versus zombies.
+ - Unlike the other "Ranked" game modes, this game mode has no risk of losing.
+ - The Chemist bug with the instant damage potion wasn't fixed for a year or more; the full information is more down.
+ - Zombie compasses are useless today since you can see usernames at any time unless you're crouching.
+ - The maps seem to follow an order, Hospital and Bunker are not in a clear order. In Subway, and from the train you go to the Airport, and from the plane to the Farm, and from the Farm it ends when humans win or zombies win.
+ - The Juggernaut It has advantages over the zombie Sprinter: Juggernaut has the Resistance effect (by a Chemist), the Sprinter it will take 13 hits to defeat him, while in Juggernaut it will take 12 hits to defeat the Sprinter zombie.
+ - There's a bug where if you launch Puker's zombie special attack, but then prevent it from finishing because a new game starts, it will say "Spit Ready" in the lobby and even reaching the next game, but it won't work.
+ - If you die in any way, including falling off the map, you will become a Zombie.
 Infection had to be rebalanced multiple times as the Zombies were too overpowered, causing them to win much more often.
-Infection is similar to Pirates in a lot of ways; the Blue team, as called by Compasses, is invaded(for Scurvy Shore and Cutthroat Cliffs, Blue is always on land), you get 1 gold from saying GG at the end of a match, you spend gold on a variety of kits, and the tough, big HP kit is called Juggernaut.
-It is generally harder to win as humans than zombies in Infection.
-On 3 April, a Beta release was made, which showed Infection winning the game mode vote against Walls, turning out to be true.
-The workbenches at the gun shop can be interacted with, although you are unable to craft anything.
-The Juggernaut has a secret trait: Potions. If you were a Medic or Chemist in a game, when you select Juggernaut as your kit for the next round, you can get the potions of the previous kits, and they are renewable. This is likely a bug. Same with Veteran and any other kits except Regular, and Scout. (Most combinations have probably been fixed).
-When you buy a new gun now, the old one disappears, and you cannot swap guns.
-If you're the last human standing, you get a Minigun.
-The Subway map contains many buildings using names of devs and items. They include Bloxd Hotel, Oliver’s Pizza, Stardue Clothing, Mattzap Games, Moonstone Mall (not said in letters, but in logo), Arthur Station and DFS Chicken.
-When a puker pukes a human, the human will be launched up. You can use this to get into places that cannot be reached by zombies. If two or more Pukers perform at the same time, the Pukers will appear even higher, reaching areas previously impossible in all maps.
-Puke deals damage across walls that are 2 blocks maximum. For example, in Bunker's third section, a zombie inside the center park pukes right when a Human reaches the stairs, and the human is infected despite the glass wall protecting them.
-If you put many boats in the Farm map, then vote hospital map, there's a chance that the boats will be inside the reception (which was a patched area because the hallway of it was patched up (it's great for hiding!)).
-If you throw an instant damage potion (Chemist) at the Hospital spawn point when the game starts and fall into the void before the potion lands, you will kill many humans, because when a human dies, they instantly become a zombie.
-Unlike other game modes, Infection has not had many updates in recent months.
-The game meta has stagnated at using humans as Medics and Chemists, and in zombies, using Puker or Bomber.
+ - Infection is similar to Pirates in a lot of ways; the Blue team, as called by Compasses, is invaded(for Scurvy Shore and Cutthroat Cliffs, Blue is always on land), you get 1 gold from saying GG at the end of a match, you spend gold on a variety of kits, and the tough, big HP kit is called Juggernaut.
+ - It is generally harder to win as humans than zombies in Infection.
+ - On 3 April, a Beta release was made, which showed Infection winning the game mode vote against Walls, turning out to be true.
+ - The workbenches at the gun shop can be interacted with, although you are unable to craft anything.
+ - The **Juggernaut** has a secret trait: Potions. If you were a **Medic** or **Chemist** in a game, when you select **Juggernaut** as your kit for the next round, you can get the potions of the previous kits, and they are renewable. This is likely a bug. Same with Veteran and any other kits except Regular, and Scout. (Most combinations have probably been fixed).
+ - When you buy a new gun now, the old one disappears, and you cannot swap guns.
+ - If you're the last human standing, you get a Minigun.
+ - The Subway map contains many buildings using names of devs and items. They include Bloxd Hotel, Oliver’s Pizza, Stardue Clothing, Mattzap Games, Moonstone Mall (not said in letters, but in logo), Arthur Station and DFS Chicken.
+ - When a puker pukes a human, the human will be launched up. You can use this to get into places that cannot be reached by zombies. If two or more Pukers perform at the same time, the Pukers will appear even higher, reaching areas previously impossible in all maps.
+ - Puke deals damage across walls that are 2 blocks maximum. For example, in Bunker's third section, a zombie inside the center park pukes right when a Human reaches the stairs, and the human is infected despite the glass wall protecting them.
+ - If you put many boats in the Farm map, then vote hospital map, there's a chance that the boats will be inside the reception (which was a patched area because the hallway of it was patched up (it's great for hiding!)).
+ - If you throw an instant damage potion (Chemist) at the Hospital spawn point when the game starts and fall into the void before the potion lands, you will kill many humans, because when a human dies, they instantly become a zombie.
+ - Unlike other game modes, Infection has not had many updates in recent months.
+ - The game meta has stagnated at using humans as Medics and Chemists, and in zombies, using Puker or Bomber.
