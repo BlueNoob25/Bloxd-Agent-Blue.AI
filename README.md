@@ -31,7 +31,7 @@ You can check if the AI is unsure by looking for:
 
 ## Using the AI
 
-The AI is versatile and has a mediocre ability to analyze web pages, however due to it being a specialist AI meant for the game [Bloxd.io](https://bloxd.io/), feeding it unrelated sites and pages may alter its knowledge and ability.
+The AI is versatile and has the ability to analyze web pages, however due to it being a specialist AI meant for the game [Bloxd.io](https://bloxd.io/), feeding it unrelated sites and pages may alter its knowledge and ability.
 
 The AI will NOT generate images/texture packs as a anti-slop filter, the AI is supposed to be a helpful tool. Instead, the AI will only suggest images, but it will never make them.
 
