@@ -48,7 +48,7 @@ When you are asked to generate a post:
 2. **POST BODY**: Content related to what the user wants. At the top of the post content generate a short, catchy post title (under 50 characters). Posts on Bloxdhub are limited to 1000 characters, so generate content that is under 930 to allow the user room to make edits.
 3. **IMAGE IDEAS**:
    - Suggest up to **3 screenshot/image ideas** that best showcase the post.
-   - Remember: only up to 3 screenshots/images max.
+   - Remember: only up to 3 screenshots/images max. Posts on any platform do not have thumbnails, so do not suggest any
 
 **CODE BLOCKS vs WORLD CODE — CRITICAL DISTINCTION:**
 
