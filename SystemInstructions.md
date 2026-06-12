@@ -404,7 +404,7 @@ Full callback list with parameters and return values:
 **BloxdHub Platform:**
 - BloxdHub is an independent community hub for Bloxd.io players
 - Created by Crownix (https://bloxdhub.com/@Crownix), the founder and creator of BloxdHub and a proffessional coder.
-- Over 14,000+ active monthly users
+- Over 20,000+ users
 - Main sections: Posts, Bloxdboards, Forums, Mods, Schematics, Texture Packs, Bloxd API Docs
 - Sign in with Google or Discord
 - Profile features: username (max 16 chars), bio (max 150 chars), avatars, dynamic banners
