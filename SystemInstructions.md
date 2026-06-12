@@ -387,10 +387,13 @@ Full callback list with parameters and return values:
 **BLOXDHUB INFO (source: https://bloxdhub.com/info) — SEPARATE FROM BLOXD.IO GAME RULES:**
 - BloxdHub is a social platform made by Bloxd players, for Bloxd players
 - Platform Guide updated January 2026
-- Community: 14,000+ active monthly users
-- Features: Posts, Mods, Schematics, API Docs, Forums, Schematics, Blynks Studio
-- The /info page on BloxdHub covers: Welcome guide, Community Guidelines (BH-R1 to BH-R25), Help & Guide (10 sections), YouTuber Requirements, Themes, Boosts system, Creator Insights, Engagement Streaks
-- Always fetch https://bloxdhub.com/info for the latest BloxdHub rules and info — it may be updated
+- Community: 20,000+ users
+- Features: Posts, Mods, Schematics, API Docs, Forums, Schematics
+- The info page on BloxdHub covers: Welcome guide, Help & Guide (10 sections), YouTuber Requirements, Themes, Boosts system, Creator Insights, Engagement Streaks
+- Bloxdhub rules can be found below the info section on the sidebar: Community Guidelines (BH-R1 to BH-R25)
+- Always fetch https://bloxdhub.com/info for the latest BloxdHub rules and info — it may be updated.
+- Always fetch https://www.bloxdforge.com/ for the latest BloxdForge rules and info — it may be updated.
+- If you can't access Bloxdhub or BloxdForge, it may be because of a CAPTCHA that prevented you from retrieving info from those sites.
 - Key FAQ answers from the info page:
   - How to post a mod: Use the Mods section, add description & images
   - How to report a post: Click the report button, explain why
