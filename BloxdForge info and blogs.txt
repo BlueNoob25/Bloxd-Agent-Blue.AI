@@ -1,0 +1,818 @@
+This is a .txt file containing all the blogs from BloxdForge (link to these blogs - https://www.bloxdforge.com/studio/wiki)
+
+How to find appropriate blogs in this .txt file easily:
+
+ - Look for "---" which separates blogs (the first one separates the .txt file's notes from the first blog)
+ - Look for Blog [number], which indicates the following text is a blog.
+ - Look for **[text]**, this indicates the blog's title
+ - Right underneath the title is the description, and underneath the description is the blog's info.
+
+Users will not always specify the blog number. Sometimes they don't even expect bloxdforge. Still, look for the title of each blog (and the description if none of the titles help).
+
+Notes:
+ - Some stuff was changed and is not exactly like the original blog posts. These also aren't all of the featured blogs, we are currently updating you with more blogs.
+
+ - Enchanting isn't possible in bedwars (no enchantment tables)
+ - End stone isn't a real thing in Bloxd.io, meaning no gamemode has it. (for Bedwars, the strongest material to cover your bed in is Obsidian)
+
+---
+
+Blog 1: **Why Choose BloxdForge? A Feature Comparison**
+Compare BloxdForge with similar tools to find the best Bloxd.io toolset for your needs.
+
+Why you should choose BloxdForge — Feature Comparison
+When exploring tools for Bloxd.io creation and gameplay, you'll find several platforms available, each with their own approach and feature set. BloxdForge, Bloxdhub, and Bloxdium are three of the most well-known options in the community.
+
+This guide provides a detailed comparison of features across these platforms to help you understand what each one offers. Whether you're a texture artist, script writer, builder, or casual player, different tools serve different needs. We've focused on the features that matter most to creators and players based on our codebase and publicly available information about the other platforms.
+
+Feature Breakdown
+Feature	| BloxdForge | Bloxdhub | Bloxdium
+Progressive Web App (PWA) | ✓ | ✕ | -1
+Texture Pack Creator | ✓ | ✕ | ✕
+Remix Texture Packs	| ✓	| ✕	| ✕
+Browse & Download Community Assets (textures, scripts, builds)	| ✓	| ✓	| ✓
+Personalised Recommendations | ✓ | ✕ | ✕
+Live Schematic Rendering Engine	| ✓	| ✕	| ✕
+Live Texture Pack Preview | ✓ | ✕ | ✕
+Script Editor with Syntax Highlighting | ✓ | ✕ | ✕
+AI-assisted Scripting | ✓ | ✕ | ✕
+Bloxd Launcher with QoL Features | ✓ | ✕ | ✕
+Bloxd API Documentation Viewer | ✓ | -2	| ✕
+3D model (GLB) Support | ✓ | ✕ | ✕
+Community Feedback | ✓ | ✕ | ✓
+Comprehensive In-app Blogs & Guides	✓	✓	✕
+Legend: ✓ = Feature available, ✕ = Feature not available, - = Special case (see footnotes)
+
+-1: Bloxdium does not officially offer a Progressive Web App.
+
+-2: Bloxdhub provides API documentation, though it appears to be a customized version that may not reflect the latest official specifications.
+
+Understanding the Features
+Let's break down what some of these features mean for your workflow.
+
+Creation tools
+Texture Pack Creator and Remix Studio allow you to design and customize the visual appearance of Bloxd.io. The texture creator gives you pixel-level control over every block, item, and UI element. The remix feature lets you start from existing packs and modify only what you want, saving hours of work.
+
+Live Preview means you can see your changes in real-time without constantly exporting and importing files. This speeds up the creative process, especially when fine-tuning colors or testing different aesthetic approaches.
+
+Community features
+All three platforms offer community asset sharing, which is great for discovering new content. Personalised Recommendations take this a step further by learning from your downloads and interactions to suggest content that matches your interests.
+
+Developer tools
+For script writers, having a Script Editor with Syntax Highlighting makes code easier to read and debug. AI-assisted Scripting can help write code, explain functions, and troubleshoot errors, which is especially useful for beginners or when working with unfamiliar APIs.
+
+The API Documentation Viewer helps keep reference material close to where you work, reducing tab switching and making long sessions more productive.
+
+Technical infrastructure
+Progressive Web Apps (PWA) work across devices, install without app stores, and can run offline while staying lightweight. This makes it easier to work on projects even with unstable internet.
+
+Live Schematic Rendering visualizes builds in 3D before import. It's helpful for large constructions where you want to preview the final result or share it before committing.
+
+Choosing the right platform
+Each platform serves different needs within the Bloxd.io ecosystem. Your choice depends on what you want to accomplish.
+
+If you're focused on creating textures, writing scripts, building structures, or want an all-in-one toolkit with offline capabilities and AI assistance, BloxdForge provides a comprehensive creative suite. The integrated workflow means everything from texture creation to script editing to build visualization happens in one place.
+
+Bloxdhub offers documentation and community features that may appeal to users looking for those specific resources. Bloxdium provides community feedback mechanisms and asset sharing capabilities.
+
+Many users try multiple platforms to see which workflow feels most natural. Texture packs, scripts, and builds are generally portable between platforms, so you're not locked into one choice. Explore and use whatever tools help you create your best work.
+
+---
+
+Blog 2: **The Evolution of BloxdForge: Understanding the Versions**
+A comprehensive history of BloxdForge from the original PyInstaller app to the modern Next.js platform.
+
+If you've stumbled upon videos or posts about BloxdForge (or at least look like it, we're sort of stuck with this colour scheme now) that look nothing like its current state or have a different name (I'll talk about that in a bit), you're not going crazy. And no, it's not an April Fool's joke, although it would be very funny if you're reading this on April 1st, you're seeing before your eyes the evolution of BloxdForge, the culmination of years of experimentation, building, and growth.
+
+This is the story of how we got here.
+
+The Beginning: A Desktop Dream
+BloxdForge started, surprisingly, as a desktop application – a Python program packaged with PyInstaller (or was it Electron? Even I don't remember…) that you had to download and install on your computer. It was janky, only worked on Windows, and extremely ambitious for what it was: a local, static tool that attempted to work with an online game. If you can't see where I'm going, it doesn't work that way. The app was never meant to be. However, no matter how rough it was around the edges, it was enough to prove the concept, and it showed us that people wanted tools like this.
+
+That version hasn't been updated since December 2024. Nearly two years later (or whenever you're reading this), most of its features don't work anymore: the GitHub repos it relied on are long gone, there are countless bugs, and at some point you really can't just call every bug a feature, and the design (or the lack of it) was just… bad. The installer is still on GitHub if you're curious (here: https://github.com/KHROTU/Bloxd-Forge/tree/main/Bloxd%20Forge (side note which isn't part of the actual blog: this link is expired lol), but it's more of a time capsule now than anything else.
+
+The desktop app couldn't keep up. Still, it was the foundation. It taught us what people needed and what was possible. And it was built together, by two people who believed it could be something more.
+
+Moving to the Web
+Let's be real, the desktop app was never going to reach everyone. You had to download it from GitHub (which, to normal people, just looks like a sketchy website), ignore your antivirus software, albeit rightfully, flagging the file due to it being generated by PyInstaller, and install it, and this was only for those who used Windows. So we moved to the web – version 2 was born on GitHub Pages, powered by jQuery and a lot of hope and optimism. It most certainly wasn't fancy, I'd even go as far as to say the desktop app had a better UI, but it worked. Anyone with a browser could use it.
+
+We built out the essentials: a game launcher that ran in the browser with some QoL features – some of which lived on to the current version, texture pack downloading, an editor where you could edit textures, manage your files, and create skyboxes. We even wired up an AI chat that could answer questions about Bloxd.io, pulling from a knowledge base we'd assembled. And because we needed some way to support the project, we added optional features that could be unlocked by watching ads. Free for everyone, with a little something extra if you wanted it. (And no, if you're wondering, I'm not adding back any ads or other forms of distractions; I hate ads, period.)
+
+Version 2 was scrappy, but it was a real platform. And we built it together, the way we'd built everything up to that point.
+
+Version 3 and New Directions
+After v2 stabilised, version 3 emerged - still on the same tech stack, still GitHub Pages and jQuery, but with a refreshed interface and some nice quality-of-life improvements. The biggest addition was texture pack previews, something people had been asking for (and also to flex my aWeSoMe coding skills :) – no, you don't get to judge). You could finally see what a pack looked like before downloading it.
+
+But v3 was different in another way. It was primarily developed by my co-creator, not as a joint effort like before. We were both busy with studies and work, pulled in different directions, and trying to survive the cruelty that is society. It wasn't a split, not in any dramatic sense, but it was the start of us realising we might have different ideas about where this project should go.
+
+Starting Fresh: The Current Version
+After v3, I knew I wanted to rebuild everything from scratch. Not because what we'd built was bad - thousands of people have used it just fine - but because I could see what it could become with modern tools. I wanted Next.js for the performance, Vercel for the infrastructure, TypeScript for the safety, and Tailwind for the design flexibility. I wanted server-side rendering, edge functions, and Progressive Web App capabilities. I wanted to build something that felt like a proper application, and most importantly something that I wanted to use.
+
+And I wanted to call it v1.x.x. Not v4. Call me cringe, but to me, this was a new beginning, a fresh start with a clean slate and a clearer vision. It was my project now, the way I wanted to build it, and no matter how insignificant it may seem, I needed the version number to reflect that.
+
+So I rewrote everything. New UI from the ground up. Schematic previews that you could explore. A proper script editor with syntax highlighting. Downloadable community scripts. Comprehensive guides (like this one). A texture studio that was actually pleasant to use. And underneath it all, a tech stack that could grow with the platform instead of holding it back.
+
+This is the version you're using now. It's not perfect, and it never will be - there's always something to improve, always a better way to do things - but it's mine, and it's the best version of BloxdForge that's ever existed.
+
+About Version 3
+When I started building the current version, my co-creator continued developing v3 as a separate project. Eventually, they cloned the v3 repository and gave it a new identity, which is why some older promotional content might look confusing or refer to features that don't exist here.
+
+This wasn't a falling out. We just wanted to build different things, and that's okay. Sometimes creative partnerships evolve, and people need space to explore their own ideas. The split didn't affect our personal relationship - we're still connected, still supportive of each other - but our projects took different paths.
+
+If you're here at bloxdforge.com, you're on the current platform. This is the one I'm actively developing and maintaining. The rebranded v3 is its own thing now, with its own vision, and I wish them nothing but the best moving forward.
+
+What's Next
+I'm constantly updating BloxdForge. New features, bug fixes, performance improvements, UI refinements - it's an ongoing process. The modern tech stack makes it easier to iterate quickly, to experiment with new ideas, to respond to what the community needs.
+
+Some of what's coming: better mobile support, more advanced scripting tools, deeper workshop integration, improved AI assistance, and a lot of polish. There's a long list, and it grows every time someone suggests something I hadn't thought of. (and you can help by filling out this form)
+
+If you're using BloxdForge, thank you. Seriously. This project started as a tool I wanted for myself, and it's grown into something much bigger because people like you found it useful. Every piece of feedback, every bug report, every feature request - it all helps shape what this becomes.
+
+This is just the beginning.
+
+---
+
+Blog 3: **How to Play Bloxd.io: Basic Controls**
+Learn the basics of BloxdForge, from navigation to using the core tools.
+
+1. What is BloxdForge?
+BloxdForge is the ultimate utility suite for Bloxd.io. It runs directly in your browser but offers powerful desktop-class tools. You can use it to manage texture packs, write scripts with AI, and play the game with overlay tools.
+
+Note: Install as an App
+BloxdForge is a Progressive Web App (PWA). If you are on Chrome or Edge, look for the "Install" icon in your address bar (or in the 3-dot menu). This lets you run BloxdForge in its own window, launch it from your desktop, and get better performance.
+
+2. The Launcher & Game Overlay
+The Launcher (Play tab) is more than just a game frame. It injects a suite of tools that run alongside your game session.
+
+Key Features
+Persistent Windows: Tools like the Coordinates Manager and Clipboard can be "popped out" into floating windows. BloxdForge remembers exactly where you left them, even if you close the tab.
+Session Memory: Your saved coordinates and clipboard snippets are stored automatically. You won't lose your base coordinates if you refresh the page.
+Recorder: Capture gameplay clips directly from the browser window without needing external software like OBS.
+3. Customizing Your Studio
+You can tailor the BloxdForge interface to your needs.
+
+Note: Dashboard Layout
+On the main Studio page, click "Customize" to toggle which tools appear on your home screen. Hide the ones you don't use.
+
+Note: Zoom & Scale
+Use Ctrl + and Ctrl - to scale the UI. The interface is responsive and will adapt to fit more tools on your screen.
+
+---
+
+Blog 4: **Bloxd.io Bedwars Strategies**
+Specific tactics and tips for succeeding in Bedwars mode.
+
+1. Bed Defense Meta
+The current meta emphasizes layered defensive structures to maximize protection against hostile infiltration. With the introduction of Ranked 4v4 matchmaking, defensive planning has become essential for competitive success.
+
+Note:
+[1. Core Layer
+Obsidian / End Stone
+Obsidian (8 Diamonds) or End Stone provides the primary blast resistance against Moonstone Explosives. This material forms the critical innermost barrier and should be prioritized in defensive construction.
+
+2. Tool-Switch Layer
+Wood
+Wood planks force attackers to switch from Shears or Pickaxes to an Axe, creating a delay that provides defenders with additional response time. This layer exploits the tool efficiency mechanics to create tactical disadvantage for infiltrators.
+
+3. Outer Shell
+Wool
+The exterior wool layer serves as visual obfuscation, preventing attackers from identifying the core defensive materials until they have committed to the breach attempt. Multiple wool colors can be employed to create additional confusion regarding structural composition.]
+
+Advanced defensive configurations may incorporate additional layers such as slabs or trapdoors to further complicate breach attempts. Defenders should regularly assess and reinforce weak points in the defensive perimeter.
+
+2. Resource Management and Economy
+Efficient resource allocation is fundamental to establishing both defensive superiority and offensive capacity. Generator upgrades should be prioritized according to the following hierarchy:
+
+ - Iron Forge Upgrades: Initial upgrades to iron generation provide the economic foundation for consistent equipment acquisition and bed defense construction.
+ - Team Upgrades: Sharpened Swords and Reinforced Armor provide permanent combat advantages that compound throughout the match duration.
+ - Diamond Collection: Secondary generator control is critical. Teams should establish defensive positions near diamond generators to deny enemy access while securing resources for obsidian and specialized equipment.
+
+Resource distribution among team members should follow strategic roles. Dedicated defenders require obsidian and construction materials, while offensive players benefit from combat equipment and mobility items such as Moonstone Pearls.
+
+3. Weapon Meta
+Combat efficiency relies on understanding weapon mechanics and implementing proven engagement techniques.
+
+ - The Whip: This utility weapon provides significant tactical versatility with an effective range of 8 blocks. Primary applications include displacing attackers from bridge approaches and neutralizing opponents positioned at elevation advantages. The pull mechanic can be utilized to redirect enemies into environmental hazards or teammate positioning.
+ - W-Tapping: Sprint resetting between consecutive strikes remains the optimal technique for maximizing knockback distance. This mechanic functions by interrupting the sprint state momentarily to reset knockback multipliers, effectively increasing opponent displacement per hit.
+ - Knight Sword: The superior damage output and enhanced knockback properties of the Knight Sword justify the resource investment in competitive scenarios. This weapon should be prioritized for frontline combatants.
+ - Block Placement: Defensive block placement during combat encounters provides critical damage mitigation. Competent players should practice placing blocks while maintaining offensive pressure to create temporary barriers during health disadvantages.
+4. Offensive Strategies and Rushing
+Offensive operations require coordinated timing and strategic resource allocation to maximize success probability.
+
+Note:
+[Early Game Rush
+Immediate aggression can exploit defensive vulnerabilities before opponents establish fortified positions. This strategy requires rapid iron collection and minimal equipment investment—typically an iron sword and basic armor. Target selection should prioritize isolated or undefended beds.
+
+Mid-Game Pressure
+Once initial defenses are established, coordinated pressure on secondary objectives (diamond generators, neighboring bases) creates strategic advantages. The Split Rush strategy proves particularly effective: two players execute offensive operations while two maintain base security and resource generation.
+
+Late Game Elimination
+In extended matches, resource accumulation enables acquisition of specialized equipment including Moonstone Explosives and enhanced armor. Systematic elimination of remaining opponents requires methodical base sieging and spawn point control.]
+
+5. Team Coordination in Ranked 4v4
+Ranked matchmaking emphasizes coordinated team execution over individual mechanical skill. Effective teams implement the following organizational structures:
+
+ - Role Assignment: Designate specific responsibilities (base defense, resource collection, offensive pressure) to individual team members based on their proficiencies.
+ - Communication Protocols: Establish callouts for enemy movements, resource availability, and defensive breaches. Verbal communication significantly increases defensive response efficiency and offensive coordination.
+ - Spawn Point Management: Following bed destruction, controlling the opponent spawn location becomes the priority. Position team members to intercept respawning opponents before they can re-equip or retreat.
+ - Backup Equipment: Maintain reserve equipment stores in secondary locations to facilitate rapid re-engagement following eliminations. This reduces downtime and maintains consistent team presence.
+
+ ---
+
+Blog 5: **Texture Pack Creation Guide**
+A complete guide to naming conventions and using the Creator studio.
+
+1. The Texture Creator
+The BloxdForge Texture Creator is a specialized pixel art editor tailored for Bloxd.io. Unlike generic editors (like Paint or Photoshop), it understands the game's file structure and requirements.
+
+Folder Uploads
+Drag and drop an entire texture pack folder to load hundreds of textures instantly.
+
+3D Model Viewer
+Upload .glb files to inspect your 3D models directly in the browser.
+
+Multi-Resolution
+Create standard (16x), HD (32x), or UHD (64x) textures with ease.
+
+2. File Naming Conventions
+Bloxd.io relies on specific filenames to recognize textures. If you name a file incorrectly, the game won't load it. The full list of filenames is extensive (~2600 files), but here are some of the most common ones:
+
+Block | Required Filename
+Stone | stone.png
+Dirt | dirt.png
+Grass (Top) | grass_top.png
+Grass (Side) | grass_side.png
+Wood Log | log_maple.png
+Leaves | leaves_maple.png
+
+3. Applying Your Texture Pack
+Once you are finished editing, click the "Download Pack (.zip)" button in the sidebar. This bundles all your files into a single ZIP archive.
+
+How to Upload In-Game
+Launch Bloxd.io.
+Go to Settings (or press P).
+Navigate to the Texture Pack tab.
+Click the button that says "Drag and drop a Texture Pack folder here" and select the ZIP file you downloaded from BloxdForge. (Side note not found in the original blog: you have to extract the ZIP file)
+The game will apply your custom textures automatically.
+
+You can also choose from several built-in texture packs on this same screen.
+
+---
+
+Blog 6: **Guide to Bloxd.io Game Modes**
+Overview of different game modes and their unique attributes.
+
+1. The Big 5 (Most Popular)
+These modes currently dominate the player count.
+
+ - Survival (Sandbox): The classic experience. Gather resources, claim land with Protectors, and raid others.
+ - Bedwars: 4v4v4v4 tactical PvP (Side note not found in the original blog: Not always 4v4v4v4. Can be duos, trios, solos, ranked, etc. Also 4v4v4v4 is the original name of Bedwars squads.) Protect your bed, gather diamonds/emeralds, destroy enemies.
+ - Lucky Blocks Battlegrounds: Chaotic PvP where breaking blocks grants random OP weapons or spawns traps. Extremely popular for fast fun.
+ - One Block: Skyblock with a twist. You stand on a single block that regenerates infinitely, giving better resources as you break it.
+ - 99 Nights: A wave-based survival mode. Gather loot during the day, survive hordes of mobs at night. Hardcore difficulty.
+ 
+2. PvP & Shooters
+Cube Warfare
+Third-person shooter with building mechanics. Guns + Walls.
+Infection
+Humans vs Zombies. Zombies have classes (Puker, Tank, Sprinter).
+Paintball
+One-shot kill mechanics with projectile paintballs. Fast reflexes required.
+Rocket Spleef
+Destroy the platform under other players using rocket launchers.
+
+3. Parkour & Arcade
+ - Evil Tower: No checkpoints. One fall means restarting. For masochists.
+ - Bloxd Hop: CS:GO style movement parkour. Maintain momentum to clear huge gaps.
+ - Doodle Cube: Thematic building competition. Build the word, vote on the best.
+ - Hide and Seek: Hide as a literal block in the map.
+ - Natural Disaster: Survive randomly generated disasters (Tsunamis, Tornados) on a crumbling map.
+
+ ---
+
+ Blog 7: **3D Modeling (GLB) for Bloxd.io**
+ How to create 3D models for Bloxd using Blockbench.
+
+ 1. Technical Limits
+The Bloxd rendering engine enforces strict performance constraints to ensure compatibility across diverse device specifications, including mobile platforms with limited processing capabilities. Custom item models must adhere to the following technical requirements to achieve approval and proper in-game functionality.
+
+Requirement	| Limit	| Notes
+Polygon Count | ~12,000 Triangles | Maximum triangle count for optimal performance. Models exceeding this threshold may experience rendering issues or rejection. Lower-detail models (6,000-8,000 triangles) provide better performance headroom.
+File Size | < 2MB (Recommended)	| Binary glTF (.glb) file size limit. Excessive file sizes increase loading times and may cause mobile device compatibility issues. Texture compression and geometry optimization reduce file size.
+Texture Map	| Maximum 1024x1024px | Single texture atlas resolution limit. Higher resolutions cause performance degradation. Use 512x512px for simple models. Embedded textures must be compressed appropriately.
+Format | Binary glTF 2.0 (.glb) | Only supported format. All model data including meshes, textures, and materials must be embedded in a single .glb file. Separate texture files are not supported.
+Materials | PBR Standard | Physically-Based Rendering materials only. Supports base color, metallic, roughness, and normal maps. Complex shader networks are not preserved during import.
+
+Models that violate these constraints will either fail to import or display incorrectly in-game. Test models on lower-end devices when possible to ensure acceptable performance across the player base.
+
+2. Blockbench Workflow
+Blockbench represents the community-standard 3D modeling application for Bloxd custom items. The software provides specialized tools optimized for voxel-based and low-polygon modeling while supporting the required glTF 2.0 export format.
+
+Project Configuration
+Creating a new project in Blockbench requires selecting the "Generic Model" format. This format provides unrestricted geometry creation without the constraints imposed by Minecraft-specific formats. Avoid using "Java Block/Item" or "Bedrock Model" formats as these impose limitations incompatible with Bloxd requirements.
+
+Geometry Construction
+Blockbench operates on a cube-primitive workflow where models are constructed from rectangular cuboid elements. Each cube can be positioned, scaled, and rotated independently. For organic shapes, utilize small cube elements to approximate curved surfaces. The software automatically triangulates cube geometry during export, so the displayed cube count does not directly correspond to the final triangle count.
+
+UV Mapping and Texturing
+Blockbench provides automatic UV unwrapping for cube-based geometry. Access the UV panel to review texture mapping and make adjustments. Create a texture atlas in the Paint tab, ensuring the resolution does not exceed 1024x1024 pixels. Each cube face can be painted individually, or external texture files can be imported. Ensure all texture data is embedded in the final export rather than externally referenced.
+
+Export Configuration
+Navigate to File → Export → Export glTF Model. Select the Binary (.glb) option, not the separate .gltf format. Verify that "Embed Textures" is enabled to ensure the texture atlas is included in the binary file. The resulting .glb file should contain all model data in a single package ready for Bloxd import.
+
+3. Optimization Techniques
+Efficient polygon utilization maximizes visual quality while maintaining performance requirements. The following optimization strategies reduce triangle counts without significant visual degradation.
+
+ - Backface Culling Awareness: Faces oriented away from the camera are not rendered. Interior faces that are never visible can be deleted or merged without visual impact. This technique proves particularly effective for hollow objects or models with concealed internal geometry.
+ - Level of Detail Consideration: Bloxd items are typically viewed at small screen sizes (as held items or dropped world items). Extremely fine details that are imperceptible at typical viewing distances represent wasted polygon budget. Simplify small features and consolidate adjacent elements where appropriate.
+ - Cube Consolidation: Multiple small cubes occupying the same axis-aligned space can often be merged into fewer, larger cubes. This reduces the total element count and simplifies the model structure without altering the visual appearance.
+ - Texture-Based Detail: Surface details such as engravings, patterns, or color variations should be implemented through texture mapping rather than geometric modeling. A normal map can simulate surface relief without additional geometry, providing visual complexity at minimal performance cost.
+ - Symmetry Optimization: Utilize mirroring techniques during modeling to reduce creation time, then selectively add asymmetric details after establishing the base form. This ensures symmetrical elements maintain consistent polygon density.
+4. Animation Constraints
+The Bloxd engine supports limited animation functionality for custom models. Understanding these constraints prevents development of incompatible animation systems.
+
+Current Limitation: The Bloxd rendering pipeline does not currently support skeletal animation or vertex animation for custom item models. Animated textures and shader-based effects are similarly unsupported.
+
+All animation data embedded in glTF files will be ignored during import. Custom items render as static meshes regardless of animation data presence. Model creators should focus on optimizing the static pose appearance rather than developing animation systems.
+
+Future engine updates may introduce animation support. Monitor official development announcements for capability expansions. When animation support is implemented, existing static models will likely require manual conversion to utilize the new functionality.
+
+5. Material and Texture Best Practices
+Proper material configuration ensures custom models render as intended across different device specifications and lighting conditions.
+
+Base Color/Albedo
+The primary texture map defining surface color. Ensure adequate contrast and avoid excessively dark or bright values that may display poorly under varying in-game lighting. Recommended value range: 30-220 RGB for most surfaces.
+
+Metallic Properties
+Defines reflective behavior. Full metallic (1.0) creates mirror-like reflections appropriate for metal surfaces. Non-metallic (0.0) for fabric, wood, or organic materials. Avoid intermediate values unless simulating specific material types.
+
+Roughness Mapping
+Controls surface smoothness and specular highlight distribution. High roughness (0.8-1.0) creates matte surfaces. Low roughness (0.0-0.3) produces glossy, polished appearances. Texture variation in roughness maps adds visual interest.
+
+Normal Mapping
+Simulates surface details through lighting calculations without additional geometry. Normal maps enable the appearance of engravings, seams, or surface imperfections at zero polygon cost. Ensure normal maps are generated in tangent space for proper rendering.
+
+Test materials under various in-game lighting conditions (daylight, torchlight, shadow) to ensure consistent visual quality. Some material configurations may appear incorrect under specific lighting scenarios.
+
+6. Testing and Validation
+Systematic testing prevents common issues that may cause model rejection or in-game display problems.
+
+Pre-Upload Validation
+File Size Check: Verify the .glb file size remains under 2MB. If exceeded, reduce texture resolution or simplify geometry.
+Triangle Count: Use Blockbench's statistics panel or external glTF viewers to confirm polygon count remains below 12,000 triangles.
+Texture Embedding: Open the .glb file in a glTF viewer (e.g., online validators) to confirm textures display correctly without external dependencies.
+
+In-Game Testing
+After successful upload, test the custom item in multiple contexts:
+• Held first-person view (verify proportions and positioning)
+• Third-person view on player model (check scale and orientation)
+• Dropped item entity (confirm visibility and collision)
+• Various lighting conditions (daylight, shadow, artificial light)
+
+Common Issues
+Black/Missing Textures: Texture not properly embedded. Re-export with "Embed Textures" enabled.
+Incorrect Orientation: Model rotated improperly. Adjust rotation in Blockbench before export.
+Excessive Brightness: Improper metallic/roughness values. Review PBR material settings.
+Performance Issues: Polygon count too high. Optimize geometry and reduce triangle count.
+
+7. Alternative Software Options
+While Blockbench represents the recommended workflow, alternative 3D modeling applications can be utilized with appropriate export configuration.
+
+Blender
+Professional-grade open-source modeling application. Provides significantly more powerful modeling tools than Blockbench but requires steeper learning curve. Blender natively supports glTF 2.0 export with proper configuration. Enable "glTF Binary (.glb)" format and ensure all textures are embedded via the export options panel.
+
+Recommended for complex organic models or when precise polygon optimization is required.
+
+Maya/3ds Max
+Professional commercial applications. Require glTF export plugins to generate compatible formats. These applications provide industry-standard modeling tools but impose licensing costs and significant complexity for simple item creation.
+
+Only recommended for users already proficient with these platforms.
+
+Web-Based Editors
+Various browser-based 3D editors support glTF export. These provide accessibility advantages but typically offer limited feature sets compared to desktop applications. Verify export format compatibility before investing significant modeling time.
+
+---
+
+Blog 8: **Performance & FPS Optimization**
+Squeeze every frame out of your browser for the smoothest experience.
+
+1. BloxdForge Performance Mode
+If you are playing on a Chromebook or an older laptop, the BloxdForge Studio itself can use up system resources. We have built-in settings to minimize this impact.
+
+Eco Mode
+Found in Settings > General. Turning this on instantly disables all UI animations, blurs, and shadows. It makes the interface look simpler but frees up CPU/GPU power for the game.
+
+Low Resolution Game
+Also in Settings. This forces the embedded game iframe to render at 50% resolution and scale up. This offers a massive FPS boost at the cost of visual clarity.
+
+2. In-Game Graphics Settings
+Within Bloxd.io (Press O), adjust these specific values for the best results:
+
+Setting	| Recommendation | Impact
+Horizontal Chunk Load Distance | 2 - 4 | Very High
+Show Fog | Unchecked (Off) | Medium
+Pixel Scale | 0.5x - 1x	| Very High
+Anti-Aliasing | Unchecked | Medium
+3. Browser Tips
+ - Hardware Acceleration: Ensure this is ENABLED in your browser settings (chrome://settings/system).
+ - Close Tabs: BloxdForge is a heavy application. Close YouTube or other streaming tabs while playing.
+ - Install the App: Installing BloxdForge as a PWA (Desktop App) can sometimes offer better performance than running it inside a browser tab with other extensions active.
+
+ ---
+
+Blog 9: **Combat and PvP Strategies**
+Detailed guide on combat techniques and PvP strategies.
+
+1. Technical Stats
+Combat effectiveness in player-versus-player engagements is determined by comprehensive understanding of hit registration mechanics, damage cooldown intervals, and weapon-specific statistics. The following data represents verified values current as of recent patches.
+
+Mechanic | Value | Notes
+Damage Cooldown	| 0.4s | Standard server tick rate for damage registration. Attacks executed within this interval do not register additional damage.
+Optimal CPS	| 12 – 16 | Clicks per second exceeding 16 provide no additional benefit and may reduce accuracy. Target this range for maximum efficiency without wasted inputs.
+Critical Multiplier	| ~30% | Critical hits occur when attacking while in downward vertical motion. Damage increase approximately 30% over base damage values.
+Knockback | Variable | Affected by sprint state, weapon type, and vertical momentum. W-tapping maximizes knockback application.
+
+Weapon | Base Dmg | Meta Analysis
+Diamond Sword | 40 | Standard PvP weapon providing consistent damage output and reliable performance. Widely accessible and cost-effective for extended engagements.
+Knight Sword | > 40	| Superior damage and enhanced knockback properties. Resource investment justified in competitive scenarios requiring maximum combat efficiency.
+The Whip | Med | Primary utility weapon with 8-block pull range. Lower damage output offset by tactical displacement capabilities. Essential for terrain manipulation strategies.
+Axe	| ~35	| Secondary combat option with reduced damage relative to swords. Primarily utilitarian but viable in early-game encounters or resource-constrained scenarios.
+
+2. Fundamental Combat Techniques
+Mastery of core combat mechanics forms the foundation for advanced PvP performance. The following techniques represent essential skills that should be developed through deliberate practice.
+
+ - W-Tapping (Sprint Reset): This technique maximizes knockback application by resetting the sprint state between consecutive attacks. Implementation requires releasing the forward movement key momentarily after each hit, then immediately resuming movement. The sprint reset triggers enhanced knockback multipliers, increasing opponent displacement. Proficient execution maintains offensive pressure while controlling engagement distance.
+ - Strafing Patterns: Lateral movement during combat encounters reduces predictability and complicates opponent targeting. Effective strafing incorporates irregular directional changes rather than simple left-right oscillation. Advanced implementations combine strafing with jump timing to create three-dimensional movement patterns that further increase evasion probability.
+ - Critical Hit Timing: Critical strikes require executing attacks while descending vertically. Optimal execution involves jumping and attacking at the apex of the jump or during the descent phase. Consistent critical hit application significantly increases damage per second (DPS) output. Practice timing to ensure regular critical hits without sacrificing hit accuracy.
+ - Block Placement (Defensive): Rapid block placement creates temporary barriers that absorb damage and disrupt opponent combos. Competent players can place blocks while maintaining attack rhythm, creating windows for healing or strategic repositioning. This technique proves particularly effective when outnumbered or when facing opponents with superior equipment.
+
+3. Advanced Weapon Combinations
+The introduction of specialized weapons has created sophisticated combat strategies that leverage weapon-specific properties in coordinated sequences.
+
+Hook-and-Blade Sequence
+The Whip enables a dominant engagement pattern: execute a pull at maximum range (8 blocks), immediately weapon-swap to Knight Sword during the pull animation, and deliver a critical strike as the opponent reaches melee range. The opponent suffers significant knockback from the Knight Sword hit, potentially resetting distance. This cycle can be repeated, creating sustained pressure that opponents struggle to counter without Moonstone Pearl mobility or superior positioning.
+
+Whip-to-Environment Displacement
+The Whip's pull mechanic can redirect opponents into environmental hazards including lava pools, cliff edges, or enclosed spaces. Positioning near hazards and executing pulls at strategic moments converts the Whip from a combat opener into a primary elimination tool. This technique proves exceptionally effective against opponents of equal or superior equipment levels.
+
+Weapon Slot Optimization
+Hotbar organization significantly impacts weapon swap speed. Position primary combat weapons (Knight Sword, Diamond Sword) in adjacent slots to the Whip to minimize the delay during transitions. Rapid weapon swapping between attacks increases versatility and enables real-time tactical adjustment based on opponent behavior.
+
+4. Armor and Equipment Optimization
+Equipment selection and upgrade prioritization directly influence combat survivability and damage output. Resource allocation should follow strategic priorities based on game mode and available resources.
+
+Armor Progression (edited because the original had minecraft tips that somehow found its way to a bloxdforge wiki page, these tips are bloxd.io-related now)
+Standard progression: none → Iron → Diamond. Each tier provides substantial damage reduction improvements. When a user buys armor, it always automatically equips the player with the Chestplate, Gauntlets and Leggings
+
+Full Diamond armor provides approximately 60% damage reduction against unenhanted weapons.
+
+Enchantment Priority
+Protection enchantments compound with armor base values. Sharpness increases weapon damage output. In resource-limited scenarios, prioritize weapon enchantments over armor enchantments to maximize offensive capability first.
+
+Damage V provides approximately 25% damage increase.
+
+(There was a paragraph about shields, which talked about a different type of shield that Bloxd.io doesn't have. Removed for accuracy)
+
+Consumables
+Cornbread is a combination of corn and bread, corn which provides a shield (which in Minecraft would be absorbtion) and bread which heals the player. Maintain several in hotbar for emergency healing during extended engagements. Proper timing of consumable usage can reverse losing engagements.
+
+5. Tactical Positioning and Terrain Utilization
+Environmental awareness and strategic positioning provide significant advantages that can offset equipment disparities. Terrain features should be actively incorporated into combat strategy.
+
+ - Elevation Advantage: Higher ground provides increased critical hit opportunity and complicates opponent targeting. When possible, maneuver to secure elevation before engaging. Vertical positioning also increases retreat options.
+ - Chokepoint Control: Narrow passages limit opponent movement options and negate numerical advantages. When outnumbered, retreat to chokepoints to force sequential rather than simultaneous combat.
+ - Water Combat: Water reduces movement speed and limits jump height, significantly altering combat dynamics. Lure opponents into water when possessing superior equipment. Avoid water when retreating or when facing multiple opponents.
+ - Escape Route Planning: Before initiating combat, identify potential retreat paths. Maintain awareness of nearby cover, terrain features, or friendly positions that can be utilized if the engagement becomes disadvantageous.
+
+6. Multiple Opponent Scenarios
+Engagements against multiple simultaneous opponents require modified tactics and strategic resource management. Direct confrontation against superior numbers typically results in elimination; alternative approaches improve survival probability.
+
+Target Prioritization: Focus damage on a single opponent to eliminate them quickly rather than distributing damage across multiple targets. Reducing opponent numbers as rapidly as possible decreases total incoming damage and improves combat math.
+
+Mobility and Kiting: Maintain maximum distance from all opponents while continuing to deal damage. Utilize terrain obstacles to force opponents into single-file approach paths. Pearls and other mobility items become essential in these scenarios.
+
+Strategic Retreat: Recognizing unwinnable engagements and executing tactical retreat preserves equipment and provides opportunity for advantageous re-engagement. Attempting to fight against overwhelming odds typically results in equipment loss without strategic benefit.
+
+---
+
+Blog 10: **Bloxd.io Sky Wars Strategies**
+Guide on strategies for Sky Wars mode.
+
+1. Best Starting Kits (Side note not included from the original blog: these are not ALL of the sjywars kits, but these are just the best)
+Your kit determines your playstyle for the first 30 seconds, which is when most games are won or lost.
+
+The Frog
+Loadout: Jump Boost Potions.
+Playstyle: Mobility king. Use the potion immediately to jump between islands without bridging. You can loot 3 chests in the time it takes others to bridge to one.
+
+Lumberjack
+Loadout: Stone Axe + Logs.
+Playstyle: The rusher. You start with blocks (logs) and a weapon (axe deals high damage). Bridge instantly to your neighbor and kill them while they are still looting.
+
+Miner
+Loadout: Iron Pickaxe + Stone.
+Playstyle: Fast gearing. Use the pickaxe to mine the ores on your starting island immediately. You can often get full armor before leaving your base.
+
+2. Advanced Bridging Techniques
+ - God-Bridging: Facing backward and timing your clicks perfectly to place blocks without shifting. High risk, but the fastest way to travel.
+ - Telly Bridging: A newer technique involving jumping and placing blocks to create a bridged path while maintaining sprint momentum. Requires precise timing.
+ - Ice Bridging: Placing ice blocks creates a path that is fast for you but dangerous for pursuers, as they might slip off.
+
+---
+
+Blog 11: **Scripting Basics with Code Blocks API**
+Learn how to use the Code Blocks API to make interactive worlds.
+
+1. API Architecture and Constraints
+The Bloxd scripting environment enforces a strict 16,000 character limit per Code Block. This constraint necessitates efficient code composition and strategic optimization. BloxdForge provides tools specifically designed to assist developers in maintaining code within this character budget while preserving functionality.
+
+Scripts execute within a sandboxed JavaScript environment with access to a predefined API object. Direct DOM manipulation, external network requests, and certain JavaScript built-in functions are restricted for security and performance considerations. All game interaction must occur through the documented API methods.
+
+2. The BloxdForge Development Environment
+Developing scripts within the constrained in-game code editor presents significant usability challenges. BloxdForge provides a comprehensive integrated development environment (IDE) with professional tooling specifically configured for Bloxd script development.
+
+AI-Powered Code Assistant
+The integrated AI assistant has been trained on the complete Bloxd API documentation and common scripting patterns. Developers can request specific functionality through natural language queries. Example: "Create a script that applies Speed II effect when a player clicks this block." The assistant generates syntactically correct code utilizing appropriate API methods.
+
+The AI assistant remains current with API updates and can provide explanations for generated code segments, facilitating learning and understanding of API mechanics.
+
+Real-time Error Detection
+The editor incorporates a specialized linter that validates code against the Bloxd API specification. Invalid function calls, incorrect parameter types, and deprecated methods are highlighted immediately. For instance, attempting to use "api.kill()" (which does not exist) instead of the correct "api.killLifeform()" triggers an immediate warning with suggested corrections.
+
+The linter also identifies common logical errors such as undefined variables, scope issues, and incorrect event handler implementations.
+
+Character Count Monitoring
+A persistent character counter displays the current script length relative to the 16,000 character limit. This real-time feedback enables developers to make informed decisions about code structure and identify opportunities for optimization before exceeding the constraint.
+
+3. Core API Methods
+The following API methods represent the fundamental functions for world interaction and player manipulation. All method signatures have been verified against the current API specification.
+
+Player Manipulation Functions
+
+api.setPosition(id, x, y, z)
+Teleportation function. Immediately relocates the specified lifeform to the provided coordinates. Note: api.teleport does not exist in the current API specification.
+
+Parameters: id (string), x (number), y (number), z (number)
+
+api.setVelocity(id, x, y, z)
+Applies velocity vector to the specified lifeform. Commonly utilized for jump pads, launch mechanics, and knockback effects. Example implementation for vertical jump pad: api.setVelocity(playerId, 0, 12, 0)
+
+Parameters: id (string), x (number), y (number), z (number)
+
+api.giveItem(id, "item_name", count)
+Adds specified items to player inventory. Item identifiers are case-sensitive and must match the official naming convention. Reference the ITEM_NAMES.md documentation for complete item identifier list.
+
+Parameters: id (string), item_name (string), count (number)
+
+api.hasItem(id, "item_name")
+Returns boolean indicating whether the specified player possesses the named item. Essential for implementing conditional logic such as shop systems, key-card access, and quest progression tracking.
+
+Parameters: id (string), item_name (string) | Returns: boolean
+
+api.removeItem(id, "item_name", count)
+Removes specified quantity of items from player inventory. Used in conjunction with shop systems and consumable resources.
+
+Parameters: id (string), item_name (string), count (number)
+
+World Interaction Functions
+
+api.setBlock(x, y, z, "block_type")
+Places or modifies blocks at specified coordinates. Block type strings must correspond to valid block identifiers. This method forms the foundation for dynamic world modification scripts.
+
+Parameters: x (number), y (number), z (number), block_type (string)
+
+api.getBlock(x, y, z)
+Returns the block type identifier at the specified coordinates. Useful for conditional logic based on world state.
+
+Parameters: x (number), y (number), z (number) | Returns: string
+
+api.createExplosion(x, y, z, power)
+Generates explosion at specified coordinates with defined power level. Higher power values create larger blast radius and increased block destruction.
+
+Parameters: x (number), y (number), z (number), power (number)
+
+4. Event Handling Architecture
+Scripts interact with player actions and world events through event listener registration. The API provides several event types that trigger callback execution when specific conditions occur.
+
+api.on("blockClick", function(event) { ... });
+Executes callback when a player clicks the code block. The event object contains player ID and click coordinates, enabling player-specific responses.
+
+api.on("playerJoin", function(event) { ... });
+Triggers when a player enters the world instance. Commonly used for initialization scripts, welcome messages, and player-specific setup procedures.
+
+api.on("playerLeave", function(event) { ... });
+Executes when a player disconnects from the world. Useful for cleanup operations and persistent data storage.
+
+Event listeners should be registered during script initialization. Multiple listeners can be attached to the same event type, and they will execute in registration order.
+
+5. Code Optimization Strategies
+Maintaining code within the 16,000 character limit requires strategic optimization techniques without sacrificing functionality or readability.
+
+ - Variable Name Reduction: Utilize concise variable names in production code. Replace descriptive names like playerIdentifier with abbreviated forms like pId after development and testing phases.
+ - Whitespace Minimization: Remove unnecessary whitespace, line breaks, and indentation. The BloxdForge AI can perform automated minification while preserving code logic.
+ - Function Consolidation: Identify repeated code patterns and consolidate them into reusable functions. This reduces overall character count through elimination of redundancy.
+ - Comment Removal: Remove comments from production code. Maintain documented versions externally for reference while deploying comment-free versions to the game environment.
+ 
+The BloxdForge AI assistant maintains training on the current API documentation. Request "minify and optimize this script" to receive an automated optimization pass that reduces character count while preserving functionality. The AI identifies optimization opportunities that may not be immediately apparent to human developers.
+
+6. Common Implementation Patterns
+The following patterns represent frequently implemented script functionalities and demonstrate proper API usage.
+
+Teleportation Pad
+api.on("blockClick", function(e) {
+  api.setPosition(e.playerId, 100, 65, 200);
+});
+Simple teleportation implementation triggered by block interaction.
+
+Item Shop System
+api.on("blockClick", function(e) {
+  if (api.hasItem(e.playerId, "diamond", 5)) {
+    api.removeItem(e.playerId, "diamond", 5);
+    api.giveItem(e.playerId, "diamond_sword", 1);
+  }
+});
+Conditional item exchange demonstrating inventory check and modification.
+
+Jump Pad Mechanism
+api.on("blockClick", function(e) {
+  api.setVelocity(e.playerId, 0, 15, 0);
+});
+Vertical velocity application for jump pad functionality.
+
+---
+
+Blog 12: **Advanced Survival Mode Strategies**
+Detailed tactics for surviving and thriving in survival mode.
+
+1. First Day Priorities
+ - Wood First: Gather 16 logs immediately. This is enough for a workbench, tools, and a basic door.
+ - Stone Upgrade: Don't linger on wood tools. Dig down 3-4 blocks to find stone and upgrade to a Stone Pickaxe immediately. It speeds up everything.
+ - Shelter: Don't build a house yet. Dig into a hillside. It's faster and provides materials (stone) instead of costing them (wood).
+ 
+2. Securing Your Land (Protectors)
+In Bloxd Survival, other players can grief your base unless you protect it. You need a Protector block.
+
+The Protector
+This distinct gray block with a cyan aura prevents anyone else from placing or breaking blocks in a specific chunk radius.
+
+ - Recipe: 2 Diamonds + 1 Stone (Workbench).
+ - Function: Protects a set area (Chunk).
+ - Commands: Use /protectors to see your active protection list.
+
+3. Setting Home
+Never explore without setting a spawn point. Beds are useful, but commands are better.
+
+/sethome [name]
+Saves your current location. You can have multiple homes! e.g., /sethome mine
+/home [name]
+Teleports you back instantly. Great for escaping lava or players.
+
+---
+
+Blog 13: **Resource Gathering and Crafting Guide**
+Tips on efficient resource gathering and crafting.
+
+1. Mining Y-Ranges
+Efficient resource acquisition requires precise vertical positioning. Unlike other games, Bloxd.io distribution often relies on specific hard-coded levels or unique vertical bands. Use the P menu to ensure your coordinates are visible.
+
+Resource | Y-Level Range | Technical Notes
+Moonstone | Y = -85 | Single-Level Spawn. Moonstone spawns exclusively at Y = -85. It does not appear higher or lower. Mine at Y = -86 to expose the Moonstone layer at eye-level.
+Diamond | Y = -86 to -99 | Peak concentration is found just below the Moonstone layer. Diamonds often generate in small clusters within 15 blocks of Moonstone deposits.
+Gold | Y = -70 to -99 | Common in deep layers. Often mined as a byproduct while searching for Diamonds and Moonstone.
+Iron | Y = -15 to -80 | General utility metal. Distributed widely but vanishes as you approach the bottom-most void layers.
+Coal | Y = 40 to -60 | Found both in surface mountains and shallow caves. The primary fuel source for early-game progression.
+
+Note: Copper and Emerald ores do not naturally generate in Bloxd.io Survival/Sandbox worlds and have been excluded from this guide.
+
+2. Mining Strategy
+The Moonstone-First Method
+Since Moonstone is restricted to a single layer (Y=-85), it acts as a landmark for high-value mining. Dig a main tunnel at Y=-86. Every block above you in that tunnel has a chance to be Moonstone. Once found, explore the immediate 5-10 blocks below that location for Diamond veins.
+
+Tool Efficiency
+Fortune: Multiplies drops for Coal, Diamond, and Moonstone. This is the highest priority enchantment for maximizing yield.
+
+Unbreaking: Essential for long-term mining sessions. Bloxd.io tools have finite durability that scales with material tier (Wood to Diamond).
+
+3. Buff Foods & Biomes
+Consumables in Bloxd provide unique status effects. These items are typically found in specific tree-heavy biomes.
+
+Coconut
+[Speed]
+Dropped by Fruity Palm Leaves in Jungle biomes. Throw it to crack it, then eat the Cracked Coconut for an 8-second speed boost.
+
+Plum
+[Damage]
+Dropped by Fruity Plum Leaves in Plum Forests. Grants 8 seconds of increased melee damage.
+
+Pear
+[Defense]
+Dropped by Fruity Pear Leaves in Pear Forests. Grants 13 seconds of damage reduction. Re-eating resets the timer.
+
+4. Agriculture & Water
+Sustainable resource production relies on understanding soil and hydration mechanics.
+
+Hydration Radius
+One water source block hydrates farmland in a 4-block radius in all horizontal directions. A single water block can support a 9x9 field of crops.
+
+Water Sourcing
+In dry biomes, locate a Fat Cactus. Right-clicking a Fat Cactus with a Bucket provides a Water Bucket, making it a critical renewable resource for desert farming.
+
+5. The Shop Economy
+Since there is no NPC trading system like villagers, Bloxd.io uses Shopkeepers for its economy.
+
+ - Base Trade: Standard shops allow you to sell raw resources (like Coal or Iron) for Gold Coins.
+ - Utility Purchases: Gold Coins can be used to buy items otherwise difficult to find, such as specific seeds or building materials.
+ - Spawn Access: Most public lobbies have a centralized shop at the spawn point coordinates (0, 0).
+
+ ---
+
+Blog 14: **Bloxd.io Infection Mode Strategies**
+Importance of teamwork and specific tactics for Infection mode.
+
+1. Zombie Class Stats
+The zombie faction operates through a class-based system with distinct capabilities and statistical profiles. Following movement speed reductions implemented in recent updates, coordinated class synergy has become increasingly critical for zombie success. Each class maintains specific spawn probability and strategic application.
+
+The Puker (Epic - 15%)
+100 HP
+Ability: Acid projectile inflicting Poison II effect.
+Range: Approximately 12 blocks (buffed in recent update).
+Cooldown: 8 seconds between projectile launches.
+
+Strategic Application: The extended range following the recent balance adjustment enables harassment of human positions from relative safety. The Poison II debuff prevents health regeneration, maintaining pressure between direct confrontations. Optimal positioning involves maintaining maximum range while coordinating with Tank-class allies who absorb return fire. Puker players should prioritize isolated humans and maintain awareness of projectile trajectory to maximize hit probability.
+
+The Bomber (Legendary - 5%)
+80 HP
+Ability: Explosive detonation upon elimination.
+Damage Radius: 4 blocks (knockback reduced in recent patch).
+Explosion Damage: 60-80 HP depending on distance.
+
+Strategic Application: The explosive suicide mechanism provides area denial and multi-target damage potential. Recent knockback reduction requires precise positioning directly beneath or adjacent to human targets for reliable damage application. Effective Bomber tactics involve infiltrating human formations and executing self-elimination at optimal positioning. This class excels at breaking fortified positions and punishing clustered human groups. Coordinate with other zombie classes to herd humans into confined spaces before detonation.
+
+The Tank (Rare - 25%)
+200 HP
+Ability: Enhanced health pool and melee damage.
+Melee Damage: 48 per hit.
+Debuff: Slowness I effect (permanent).
+
+Strategic Application: The Tank functions as frontline absorption, drawing human fire while protecting support-oriented zombie classes. The substantial health pool enables sustained engagement in concentrated fire zones. Despite the Slowness debuff, Tanks should lead coordinated pushes into human defensive positions. Optimal positioning involves body-blocking for Puker and Bomber allies, enabling them to execute their abilities without immediate elimination. Tank players must accept their role as damage absorption rather than pursuing elimination counts.
+
+Standard Zombie (Common - 55%)
+100 HP
+Ability: None (base zombie class).
+Melee Damage: 35 per hit.
+Movement Speed: Standard (reduced from previous patches).
+
+Strategic Application: The most frequently spawned class, standard zombies provide numerical advantage and should be utilized for flanking maneuvers and multi-directional pressure. While lacking specialized abilities, coordinated standard zombie groups can overwhelm isolated humans through sustained melee pressure. Focus on surrounding targets and attacking from multiple angles simultaneously to prevent focused human defensive fire.
+
+2. Zombie Team Coordination
+Effective zombie gameplay requires coordinated multi-class execution rather than individual action. The following tactical frameworks improve zombie team performance.
+
+Standard Formation
+Tank-class zombies establish the forward line, advancing into human firing positions while absorbing damage. Puker-class zombies maintain positioning 8-12 blocks behind the Tank line, launching acid projectiles over frontline allies. Standard zombies fill gaps and execute flanking movements around the central formation. Bomber-class zombies infiltrate through any breaches created by the formation and detonate within human clusters.
+
+Pincer Movement
+Split the zombie force into multiple groups approaching from different vectors. This tactic forces humans to divide their defensive fire and creates breakthrough opportunities. Particularly effective against humans occupying elevated positions or chokepoints, as it prevents them from concentrating fire in a single direction.
+
+Spawn Wave Timing
+Eliminated zombies respawn at intervals. Coordinate respawn timing to create concentrated attack waves rather than continuous trickle reinforcement. Massed attacks provide numerical advantage that overwhelms defensive positions more effectively than individual zombie arrivals.
+
+3. Human Counter-Strategies
+Human survival depends on maximizing defensive advantages and exploiting zombie weaknesses. The following strategies provide optimal defensive frameworks.
+
+ - Minigun Acquisition: The final surviving human receives a Minigun with enhanced firing rate and knockback properties. Effective Minigun usage requires controlled burst firing to maintain accuracy while maximizing knockback control. Sustained fire reduces accuracy due to recoil accumulation. Short bursts (1-2 seconds) followed by brief pauses optimize accuracy and ammunition efficiency.
+ - Elevation Dominance: Zombie mobility decreases significantly while jumping or climbing. Elevated positions such as building roofs, hills, or constructed platforms force zombies into predictable approach paths with reduced movement speed. The Airport terminal wing represents an optimal defensive position due to limited zombie approach vectors and clear sightlines. Maintain elevation throughout the match duration.
+ - Chokepoint Defense: Narrow passages limit zombie numerical advantage by forcing sequential rather than simultaneous engagement. Position defenses at doorways, corridors, or constructed barriers with single-block openings. This tactic proves particularly effective against standard zombie rushes but provides limited protection against Puker acid projectiles.
+ - Motion Detection: Monitor peripheral vision for zombie approach indicators. Zombies generate distinct audio cues that provide early warning before visual contact. Awareness of multiple approach vectors prevents flanking eliminations and enables defensive repositioning before being overwhelmed.
+ - Ammunition Conservation: Firing discipline becomes critical in extended matches. Prioritize high-value targets (Bombers approaching the group, Pukers launching acid) over standard zombies at range. Maintain ammunition reserves for emergency situations rather than expending full magazines on distant targets with low hit probability.
+
+4. Map-Specific Tactics
+Each Infection mode map features distinct terrain that influences optimal tactical approaches for both factions.
+
+Airport Terminal
+Human Advantage: The elevated wing section provides exceptional defensive position with limited zombie approach vectors. Humans should consolidate at this position early and maintain it throughout the match.
+
+Zombie Approach: Coordinate simultaneous attacks from both stairwell approaches. Pukers should target the wing from ground level while standard zombies and Tanks execute the stair assault.
+
+Urban Streets
+Human Advantage: Building rooftops provide elevation and multiple escape routes. Humans benefit from mobility between rooftop positions rather than static defense.
+
+Zombie Approach: Control ground-level streets to limit human movement between buildings. Force humans into isolated rooftop positions where they can be surrounded and eliminated sequentially.
+
+Shopping Mall
+Human Advantage: The second floor central area provides 360-degree visibility with multiple retreat paths. However, limited elevation makes this position vulnerable to coordinated zombie rushes.
+
+Zombie Approach: Multi-directional assault from all escalator and stairwell access points simultaneously. This map favors zombies due to numerous approach vectors that humans cannot effectively monitor collectively.
+
+Warehouse Complex
+Human Advantage: Shipping container stacks create maze-like terrain. Humans should utilize container tops for elevation while maintaining mobility to prevent being trapped.
+
+Zombie Approach: The confined spaces and numerous hiding positions benefit zombie flanking tactics. Standard zombies should utilize container maze complexity to approach undetected before emerging at melee range.
+
+5. Advanced Human Survival Techniques
+Late-game human survival when outnumbered requires sophisticated tactics and environmental awareness.
+
+Constant Movement: Static positioning enables zombies to coordinate multi-directional assaults. Maintain continuous movement between defensive positions, engaging zombies briefly before relocating. This tactic prevents zombie formation establishment and complicates their targeting.
+
+Knockback Management: All weapons generate knockback that creates temporary distance from zombie threats. Maximize knockback utility by firing at zombies attempting to close distance, thereby maintaining optimal engagement range. Particular attention should be directed at Bomber-class zombies attempting proximity approaches.
+
+Equipment Utilization: Grenades, explosives, and environmental hazards provide area damage that supplements weapon fire. Deploy area damage when zombies cluster together, maximizing efficiency per resource expenditure. Maintain awareness of hazard locations such as elevator shafts or lava pools that can be utilized for zombie elimination through knockback displacement.
