@@ -1,0 +1,862 @@
+This is a .txt file for Bloxdhub Info, Terms of Service and Privacy Policy.
+
+How to find appropriate pages in this .txt file easily:
+
+ - Look for "---" which separates pages (the first one separates the .txt file's notes from the Bloxdhub info section description, the second one following that separates the info section description from the first page. Last two separates the final page from the Terms of Service and Privacy Policy).
+ - Look for Page [number], which indicates the following text is a page.
+ - Look for **[text]**, this indicates the page's title or whether the following text is the Bloxdhub terms of Service or Privacy Policy.
+ - Right underneath the title is the page's info.
+ - Pages 3-9 document Platform Features.
+ - All pages (including the Welcome to Bloxdhub message) are part of the Info page.
+ - The BloxdHub Terms of Service and Privacy Policy can be found near the end.
+
+Notes:
+ - (about the Bloxdhub UI, not this .txt file) The Info page can be found on the sidebar on Bloxdhub, while the Terms of Service and Privacy Policy can be found by clicking on the user profile on the top right corner and looking down at the dropdown menu that appears.
+ - Crownix confirmed the Info page fetches all users from the database and looks for certain fields, to automatically update sections like "Approved Creaotrs" and "Admin Team".
+
+---
+
+Welcome to Bloxdhub - Platform Guide by Crownix
+Updated January 2026
+
+---
+Page 1: **Overview**
+Bloxdhub is where the Bloxd.io community comes together. Whether you're sharing your latest build, downloading mods, or just hanging out with other players, this is your home base for everything Bloxd.
+
+What is Bloxdhub?
+We're a social platform made by Bloxd players, for Bloxd players. Post your creations, discover new mods, share schematics, and connect with others who love the game as much as you do.
+
+Built for Bloxd
+Every feature here is designed specifically for the Bloxd community. No generic social media stuff - just pure Bloxd goodness.
+
+What You Can Do Here
+Share & Connect
+Post screenshots, videos, and updates. React to others' content and join conversations about your favorite game modes.
+
+Download Mods
+Community-made content you can add to your own custom worlds. Everything from new mechanics to complete game overhauls.
+
+Get Schematics
+Grab building blueprints to instantly place in your world. Houses, castles, pixel art - skip the tedious building and get straight to the fun.
+
+Learn Game Dev
+Our API docs teach you Bloxd game development. Still growing, but already packed with examples to get you started.
+
+Join Programs
+YouTubers and quality creators can get special recognition and perks. Show off that verified status!
+
+The Numbers
+Growing Community:
+Over 5,000 active users each month
+Tons of Content:
+Hundreds of mods and schematics to explore
+Smart Discovery:
+10 different ways to find new content in your feed
+For Developers:
+Un-finished API docs with real examples
+New Here?
+Just sign in with Google or Discord and you're ready to go. Follow some creators, check out the trending mods, and don't forget to share your own stuff!
+
+Why We're Different
+Other platforms try to be everything to everyone. We focus on one thing: making the Bloxd community awesome.
+
+Focused on Bloxd:
+Mostly Bloxd content - this is where the community lives
+Creator-First:
+We actually care about helping creators grow and get noticed
+Smart Feed:
+Our injection system makes sure good content doesn't get buried
+Free Tools:
+API docs, mods, schematic sharing - all free
+Community-Built:
+Features come from what the community wants.
+
+---
+
+Page 2: **Our Team**
+Our Team
+Leadership & Staff
+Bloxdhub is built and maintained by a dedicated team of Bloxd.io enthusiasts who are passionate about creating the best platform for the community.
+
+Platform Owner
+Crownix
+bloxdhub started as a simple idea and turned into a real platform over the past 15 months. every part of the site is built and maintained by me, from the core systems to the smallest fixes. when new features roll out, bugs get patched, or something quietly improves behind the scenes, that work comes directly from me. i handle the development myself so everything stays consistent, stable, and built with a clear vision.
+
+as the platform owner, i make the final calls on how bloxdhub runs. that includes deciding what features get worked on next, handling major technical issues, keeping the servers running, and overseeing the direction of the site as a whole. i also choose who becomes an administrator. those decisions are not random or based on popularity. i watch how people act over time and only give responsibility to those who prove they can handle it properly.
+
+moderation decisions at the highest level also come through me. while administrators handle most day to day cases, permanent bans and serious situations are reviewed and approved by me. i prefer keeping development under my control rather than splitting it between multiple people, since it keeps the platform more secure and avoids conflicting design choices. if you have questions about bloxdhub, its systems, or where its headed, ping me on the offical bloxdhub server :)
+
+owner responsibilities
+i built and maintain everything on bloxdhub, decide what features get added, pick administrators, approve permanent bans, handle technical issues, and control the platforms direction. every aspect of the site comes from my work.
+
+Administrative Team
+Toggle
+LSVJ
+DuckyMS
+
+the administrative team exists to keep bloxdhub safe, clean, and enjoyable for everyone using it. administrators work mostly behind the scenes, handling reports, removing harmful content, and stopping problems before they spread. even if you do not see them posting often, they are consistently active, reviewing activity and making sure rules are enforced fairly.
+
+each administrator was personally selected based on trust, maturity, and their behavior within the community. they are not here for power or attention. their role is to protect the platform and its users. when reports are submitted, administrators investigate them carefully, review context, and take action when needed. they also monitor spam, look into suspicious behavior, and identify potential alt accounts or abuse patterns.
+
+Behind the Scenes Work
+administrators work across different times and stay in communication with each other to handle complex cases. they regularly discuss difficult situations, coordinate responses, and make sure issues are resolved properly no matter when they happen. beyond moderation, they also help test new features before public release and provide feedback based on what they see happening in the community.
+
+their work often goes unnoticed, but it is constant. removed spam, stopped harassment, banned abusers, and cleaned up content are all results of administrative action. the goal is simple. keep bloxdhub a place where people can post, interact, and enjoy the platform without dealing with toxicity or disruption. administrators volunteer their time because they care about the community and want the platform to stay healthy long term.
+
+administrative duties
+administrators handle reports, remove bad content, ban troublemakers, monitor for spam and abuse, test new features, and work together to keep the platform safe. every admin is an awesome person who genuinely cares about the community.
+
+Our admin team helps moderate content, manage reports, and ensure the platform runs smoothly. Admins have special permissions to:
+
+Content Moderation:
+Review and handle reported posts and comments
+User Management:
+Handle bans, warnings, and account issues
+Platform Features:
+Test new features and provide feedback
+Community Support:
+Help users with technical issues and questions
+How to Identify Staff
+Staff members are easily identifiable throughout the platform:
+
+Owner Badge
+The platform owner has a special gold crown badge next to their name, indicating their role as the platform creator and leader.
+
+Admin Badge
+Administrators have a blue shield badge next to their name. Some admins can choose to hide their badge for privacy.
+
+Impersonation Warning
+Staff members will NEVER ask for your password or personal information. If someone claims to be staff without a badge, report them immediately. Always verify staff identity through their official badge.
+
+Contacting Staff
+Need to reach the team? Here are the best ways:
+
+Report System:
+Use the built-in report feature for content violations
+Discord Server:
+Join our official Discord for direct support
+Staff Panel:
+Admins monitor reports and handle issues daily
+Becoming Staff
+We're currently full on staff and aren't taking new admins right now. As the platform grows, we'll naturally need more help - so keep being awesome!
+
+When we do open applications, we look for:
+
+Active participation in the Bloxdhub community
+Positive reputation and no rule violations within the past 6 months
+Maturity and good judgment in handling situations
+Availability to help moderate regularly
+Understanding of platform rules and guidelines
+Staff applications are announced on the platform and Discord when positions are available. We don't accept unsolicited applications.
+
+---
+
+Platform features:
+
+Page 3: **Boost System**
+
+Boost System
+Platform Currency
+Currently Unavailable
+The boost system is temporarily down while we work on improvements. We're planning to bring it back, but don't have a timeline yet. Stay tuned for updates!
+
+What are Boosts?
+Boosts are a currency you earn by being active on Bloxdhub. You can spend them to highlight your posts and get more visibility in the feed.
+
+How They Work
+The basic idea is simple:
+
+Earn:
+Complete daily quests and find secret drops scattered around the platform
+Spend:
+Use boosts to boost your posts for extra visibility
+Gift:
+Send boosts to other users to support their content
+Why It's Down
+We're rethinking how the boost system should work to make it more useful and fair for everyone. Rather than rush something out, we'd rather take the time to get it right.
+
+What's Next
+We don't have a specific date for when boosts will return, but it's definitely something we want to bring back. When we do, we'll announce it on the platform and Discord.
+
+In the meantime, your content still gets discovered through our feed injection system - so keep posting!
+
+---
+
+Page 4: **Feed Injections**
+Feed Injection System
+Content Discovery
+Bloxdhub uses a smart feed system to help you discover great content beyond just the newest posts. Instead of everything being chronological, we mix in quality posts based on different criteria.
+
+What are Feed Injections?
+Feed injections are posts that appear in your feed with colored labels. They help surface content that might otherwise get buried, giving creators more visibility and keeping your feed interesting.
+
+Why We Do This
+Without injections, good posts can disappear quickly in a busy feed. This system gives every post a fair chance to be seen and helps you discover content you might miss.
+
+Types of Injections
+There are 10 different injection types, each with its own purpose and appearance:
+
+Trending
+Posts that are currently getting lots of engagement from the community.
+
+From Someone You Follow
+Recent posts from people you follow that got engagement.
+
+Rising Creator
+Posts from users with under 30 followers who are getting likes.
+
+Getting New Attention
+Posts from a few days ago that are being rediscovered.
+
+Join the Conversation
+Posts with active discussions happening in the comments.
+
+Featured Media
+High-quality image or video posts with good engagement.
+
+Community Favorite
+Posts with diverse reactions showing the community really loves them.
+
+Welcome Back Post
+Posts from users who haven't posted in a while.
+
+Throwback Post
+Quality older posts that are worth revisiting.
+
+Approved Bloxdhub Creator
+Posts from verified creators who consistently produce quality content.
+
+How It Works
+The system intelligently mixes these injections throughout your feed. You'll see regular posts mixed with injected content based on various patterns and timing.
+
+Benefits
+Better Discovery:
+Find content you might otherwise miss
+Creator Support:
+New and returning creators get more visibility
+Quality Focus:
+Good content resurfaces even if it didn't get immediate attention
+Personalized:
+Follower injections show you relevant content
+Diverse Feed:
+Your timeline stays interesting and varied
+No Duplicates
+The system is smart about preventing duplicates. Once a post appears in your feed, it won't show up again with a different label. This ensures you see maximum variety.
+
+For Creators
+Injections give your content multiple chances to be seen! Even if your post doesn't get immediate traction, it might surface later through different injection types.
+
+---
+
+Page 5: **Creator of 2025**
+(additional context that isn't part of the actual page: The winner of the Creator of 2025 was @NotAnKnownPerson)
+
+Creator of 2025
+Annual Award
+Creator of 2025 is Bloxdhub's annual community award that recognizes the most outstanding content creator on the platform. It's a celebration of creativity, dedication, and positive impact on the Bloxd.io community.
+
+What is Creator of 2025?
+Creator of 2025 is a special event where the community votes for their favorite content creator of the year. The winner gets recognition and bragging rights as the year's top creator.
+
+Community-Driven
+The winner is entirely decided by the community. Every vote counts, and the winner truly represents who the community values most.
+
+How 2025 Worked
+The 2025 Creator of the Year program had several phases:
+
+Nominee Selection
+Nominees were selected through an algorithm that analyzed the database for outstanding creators based on their contributions throughout the year. The selection process worked like this:
+
+First 10:
+Selected and added every 5 minutes over 1 day
+Next 10:
+Picked the following day, spread over 5-20 minutes
+Final 10:
+Added 5-7 days after voting started, all launched at once
+This gave users time to see the competition and potentially work harder to get noticed for the final batch.
+
+Voting Rules
+The voting system had specific rules to keep it fair:
+
+One Vote:
+Each user could only vote for one person
+No Self-Voting:
+You couldn't vote for yourself
+Vote Changes:
+You could change your vote once every 30 hours
+Results
+The 2025 voting saw incredible participation with over 400 votes cast! The winner was said to be announced within the first 10 days of 2026.
+
+Winner Benefits
+The Creator of 2025 receives several perks:
+
+Special Badge
+A unique "Creator of 2025" badge displayed on their profile and next to their name throughout the platform.
+
+Platform Recognition
+Featured in an announcement as the year's top creator.
+
+Eternal Glory
+Forever remembered as the first-ever Creator of the Year winner.
+
+Creator of 2026
+We're planning to do things differently for 2026. Instead of algorithm-based selection, we're considering community nominations where users can suggest creators they think deserve recognition.
+
+Details for the 2026 program will be announced later in the year. Keep creating amazing content and engaging with the community!
+
+Stay Tuned
+Creator of 2026 details will be announced when we get closer to the nomination period. Keep being awesome and who knows - you might be next year's winner!
+
+---
+
+Page 6: **YouTuber Program**
+YouTuber Program
+Content Creator Partnership
+The Bloxdhub YouTuber Program is designed to partner with content creators who promote Bloxd.io and Bloxdhub on YouTube. Members get special recognition and exclusive perks on the platform.
+
+What is the YouTuber Program?
+The YouTuber Program recognizes and rewards YouTube content creators who feature Bloxd.io and Bloxdhub in their videos. It's a partnership that benefits both creators (through platform perks) and the community (through increased awareness and content).
+
+Mutual Benefit
+YouTubers get special status and features on Bloxdhub, while the platform gains exposure through their content. It's a win-win partnership that helps grow the entire Bloxd.io community.
+
+Current YouTubers
+Meet our current YouTuber partners who are actively promoting Bloxd.io and Bloxdhub:
+
+Bloxd_Beast
+BloxdBuilder
+C_Bloxd
+Cannoli
+CyrexExD
+noodles_bloxd
+
+YouTuber Recognition
+YouTubers are easily identifiable throughout the platform with their special YouTube badge and red username color. They have the privilege to post YouTube links in their content.
+
+Eligibility Requirements
+To qualify for the YouTuber Program, you must meet these basic requirements:
+
+Minimum 500 subscribers
+on YouTube
+Bloxd-related content
+- Your channel must feature Bloxd.io gameplay or content
+Active channel
+- Regular uploads and engagement with your audience
+Good standing
+- No violations of YouTube or Bloxdhub terms of service
+Monthly Requirements
+To maintain your YouTuber status, you must meet ONE of the following options each month:
+
+Option 1: Single Promotional Video
+Requirements
+Upload 1 video per month with at least 20 seconds showing Bloxdhub. Include a link to Bloxdhub in the description. The video must get 750+ views within the month.
+
+Option 2: Two Promotional Videos
+Requirements
+Upload 2 videos per month, each with at least 20 seconds of Bloxdhub content and a link in the description. Each video must get 400+ views.
+
+Option 3: Dedicated Video (2-Month Status)
+Special Option
+Upload a dedicated video about Bloxdhub and get 1500+ views within the month. This qualifies you for 2 months of YouTuber status!
+
+YouTuber Benefits
+Active YouTubers receive several exclusive perks on Bloxdhub:
+
+Special Badge
+A distinctive YouTube badge appears next to your name throughout the platform, making you easily recognizable.
+
+Name Color
+Your username displays in a special red color that stands out in posts, comments, and throughout the platform.
+
+YouTube Links
+Ability to post YouTube links in your Bloxdhub posts - a privilege reserved only for YouTubers to prevent spam.
+
+Increased Visibility
+Your posts may receive priority in feed algorithms and special highlighting to help grow your audience.
+
+Status Maintenance
+Your YouTuber status is reviewed monthly. If you don't meet the requirements for a given month, your status will be temporarily removed until you meet them again.
+
+Important
+If requirements are not met, your YouTuber status will be removed until you meet them again. This ensures the program remains active and beneficial for both parties.
+
+How to Apply
+Ready to join the YouTuber Program? Here's how to apply:
+
+1
+Join Discord
+Join the official Bloxdhub Discord server where applications are processed.
+
+2
+Prepare Information
+Have your YouTube channel link, subscriber count, and recent Bloxd-related videos ready.
+
+3
+Submit Application
+Fill out the YouTuber application form in the Discord server with all required information.
+
+4
+Wait for Review
+Staff will review your application and verify your channel meets requirements. You'll be notified of the decision.
+
+Program Rules
+Content must be appropriate and follow YouTube/Bloxdhub guidelines
+No misleading or false information about Bloxdhub
+Bloxdhub links must be clearly visible in video descriptions
+View requirements must be met organically (no view botting)
+Status can be revoked for rule violations or inappropriate content
+Apply Now
+Ready to join? Head to our Discord server and submit your application in the YouTuber program channel. We look forward to partnering with you!
+
+---
+
+Page 7: **Approved Creators**
+Approved Creators
+Quality Content Badge
+Approved Creators are Bloxdhub members who consistently produce high-quality content and positively contribute to the community. This status is granted by staff to recognize exceptional creators.
+
+Current Approved Creators
+Meet our current approved creators who consistently deliver quality content to the Bloxdhub community:
+
+Andye_
+BloxdBuilder
+BloxdNews
+FJ
+Jennie
+Mig_W4lol
+SpaceClouds
+Witty
+
+Approved Creator Recognition
+Approved creators are easily identifiable throughout the platform with their special creator badge. Their posts are eligible for special feed injections to increase visibility.
+
+What is an Approved Creator?
+An Approved Creator is a user who has been verified by Bloxdhub staff as a consistent producer of quality content. This isn't just about popularity - it's about reliability, creativity, and positive community impact.
+
+Quality Over Quantity
+Approved Creator status isn't about having the most followers or posts. It's about consistently delivering value to the community through well-crafted, original, and helpful content.
+
+How to Become an Approved Creator
+Unlike the YouTuber Program, there's no application process for Approved Creator status. The team will identify and grant this status to users who demonstrate exceptional quality over time.
+
+What Staff Looks For
+Consistent Quality:
+Regular posts that are well-made and valuable
+Original Content:
+Creative and unique contributions, not reposts
+Community Engagement:
+Helpful comments and positive interactions
+Platform Understanding:
+Proper use of features and following guidelines
+Positive Influence:
+Setting a good example for other users
+Sustained Activity:
+Long-term presence and contribution
+Approved Creator Benefits
+Approved Creators receive several perks that recognize their contributions:
+
+Verified Badge
+A special orange checkmark badge appears next to your name, indicating your approved status to the community.
+
+Feed Injection
+Your posts are eligible for the "Approved Creator" feed injection, giving them extra visibility in the community feed.
+
+Recognition
+Listed in the approved creators directory and featured in platform announcements.
+
+Maintaining Approved Status
+Approved Creator status is not permanent. Staff periodically reviews approved creators to ensure they continue meeting the standards. Status can be revoked if:
+
+Content quality significantly declines
+Rule violations or inappropriate behavior
+Extended inactivity without communication
+Spam or low-effort content becomes prevalent
+Negative impact on community atmosphere
+No Guarantees
+There's no guaranteed path to becoming an Approved Creator. Focus on creating great content and being a positive community member - if you're consistently excellent, staff will notice.
+
+Approved Creator vs YouTuber
+These are two different programs with different purposes:
+
+Aspect	Approved Creator	YouTuber
+Application	Staff-granted only	Open application
+Requirements	Quality content on Bloxdhub	YouTube channel + promotion
+Badge Color	Orange checkmark	Red YouTube icon
+Main Benefit	Feed injection + recognition	YouTube link posting
+Maintenance	Ongoing quality	Monthly video requirements
+Tips for Aspiring Approved Creators
+Want to increase your chances of being noticed? Here are some tips:
+
+1
+Focus on Quality
+Every post should add value. Take time to craft well-written posts, create original mods, or share helpful tutorials.
+
+2
+Be Consistent
+Regular activity shows dedication. Post frequently but never sacrifice quality for quantity.
+
+3
+Engage Positively
+Help others in comments, answer questions, and contribute to discussions constructively.
+
+4
+Be Original
+Create unique content that showcases your creativity. Don't just repost or copy others.
+
+5
+Follow Guidelines
+Always follow platform rules and set a good example for the community.
+
+Keep Creating
+The best approach is to create content you're passionate about and engage authentically with the community. Approved Creator status is a recognition of what you're already doing well!
+
+---
+
+Page 8: **Custom Badges**
+Custom Badges
+Special Recognition
+Custom badges are special icons that appear next to usernames throughout Bloxdhub. These badges recognize official accounts, notable achievements, and exceptional contributions to the platform. Most badges are extremely rare and given only for specific reasons.
+
+What are Badges
+Badges appear as small icons next to your username across the platform, including in posts, comments, profiles, and anywhere your name is displayed. They serve as visual indicators of your status, achievements, or official affiliation with Bloxdhub or Bloxd.io.
+
+Extremely Rare
+Custom badges are not given out easily. They represent significant achievements, official status, or exceptional contributions to the platform. Begging for a badge will not get you one.
+
+Current Badge Holders
+Here are the users who currently have custom badges on Bloxdhub:
+
+Andye_ - Paint badge
+(Bloxdhub artist)
+Bloxdhub - Verified badge
+(Verified)
+xXBLAZE_PVPXx - Watch badge
+(Crownix's brother)
+
+Badge Types
+Verified Badge
+Purpose: Given to official accounts to prevent impersonation and confusion.
+
+Who has it: The official Bloxdhub account uses this badge so users know they are interacting with the real platform account, not an impersonator.
+
+How to get it: This badge is only for official platform accounts. Anyone without this badge claiming to be an official account should be reported.
+
+Dev Badge
+Purpose: Identifies official Bloxd.io developers who join the platform.
+
+Appearance: Wrench icon alongside a yellow username color.
+
+Who has it: Bloxd.io development team members who have accounts on Bloxdhub.
+
+Important: Anyone claiming to be a Bloxd developer without this badge is fake and should be reported immediately.
+
+Paint Badge
+Purpose: Recognizes exceptional artistic contributions to the platform.
+
+Who has it: Exclusively given to Andye for her incredible work creating custom art for Bloxdhub.
+
+History: Andye created the entire Blynks system back when Bloxdhub was called Postbase. Blynks were custom avatars where users could customize their character with different skins, sizes, eyes, mouths, clothes, and accessories like hats or glasses. She drew every single character and customization option.
+
+Status: UNOBTAINABLE - This badge is unique to Andye and will never be given to anyone else.
+
+About Blynks
+Blynks were a custom feature that let you change your personal avatar to any character Andye drew. It is currently unknown whether Blynks will return to Bloxdhub in the future.
+
+Watch Badge
+Purpose: Custom badge given by special request.
+
+Who has it: Crownix's brother specifically requested a watch icon as his custom badge.
+
+Why a watch: Honestly we dont know why he chose a watch specifically, but it was his choice and we honored it.
+
+How to Get a Custom Badge
+Custom badges are not something you can apply for or request. They are given for:
+
+Official Status:
+Being an official account or developer
+Exceptional Contributions:
+Making significant, lasting impacts on the platform
+Notable Achievements:
+Accomplishing something truly remarkable
+Special Circumstances:
+Unique situations decided by the platform owner
+Important Notice
+Begging for a custom badge will not get you one. Badges are given for notable achievements and exceptional contributions. They are extremely hard to get and meant to be rare. Focus on making genuine contributions to the community instead.
+
+Other Badges
+Besides custom badges, there are other recognition systems on Bloxdhub:
+
+owner badge
+gold crown icon for the platform owner. this is not a custom badge but a role indicator.
+
+admin badge
+blue shield icon for administrators. role-based, not a custom badge.
+
+YouTuber - youtuber badge
+youtube icon for active youtuber program members. can be earned through the program.
+
+Approved Creator
+orange checkmark for quality content creators. staff-granted for exceptional work.
+
+---
+
+Page 9: **Creating Quality Posts**
+Creating Quality Posts
+Content Guidelines
+Creating engaging, high-quality posts is essential for building a strong presence on Bloxdhub. Quality content not only attracts more interactions but also contributes to a better experience for the entire community. This guide will help you understand what makes a post successful and how to create content that resonates with other users.
+
+Understanding Quality Content
+Quality posts on Bloxdhub share several key characteristics. They provide value to the community, whether through entertainment, information, creativity, or meaningful discussion. Quality content is well-presented, follows community guidelines, and encourages positive interaction from other users.
+
+Before posting anything, ask yourself a simple question: if you were browsing Bloxdhub as another user, would this be something you would want to interact with? Would you like it, comment on it, or share it with others? If the answer is no, consider improving your content before publishing.
+
+The Golden Rule
+Create content you would want to see. If your post would not interest you as a viewer, it probably will not interest others either.
+
+Community Guidelines Compliance
+All posts on Bloxdhub must follow our community guidelines. These rules exist to maintain a safe, respectful, and enjoyable environment for everyone. Before creating any content, make sure you understand and follow these essential rules:
+
+BH-R1
+Be Respectful to Everyone
+Treat all community members with respect and kindness. Avoid hostile language, personal attacks, or discriminatory content.
+
+BH-R3
+Keep Content Safe for All Ages
+Bloxdhub welcomes users of all ages. Ensure your content is appropriate and does not contain mature themes or language.
+
+BH-R4
+No NSFW, Illegal, or Violent Material
+Absolutely no adult content, illegal activities, or violent material is allowed anywhere on the platform.
+
+BH-R5
+No Spamming Posts, Comments, or Links
+Avoid repetitive posting, excessive self-promotion, or flooding the feed with similar content.
+
+BH-R7
+Give Credit When Sharing Others Work
+Always credit original creators when sharing content that is not your own. Respect intellectual property and creative work.
+
+BH-R18
+Do Not Beg for Likes, Mods, or Attention
+Let your content speak for itself. Asking for likes, follows, or attention in your posts diminishes their quality.
+
+Full Guidelines
+These are just key highlights. Make sure to read and understand all 25 community guidelines before posting. Breaking these rules may result in warnings, temporary bans, or permanent account suspension.
+
+The Power of Visual Content
+Posts with media content typically perform significantly better than text-only posts. Visual elements catch attention, convey information quickly, and make your content more engaging. Consider including images, videos, screenshots, or other visual elements whenever possible.
+
+Images and Screenshots
+High-quality images can transform an ordinary post into something special. Whether you are sharing a Bloxd.io build, showcasing a mod, or demonstrating a technique, clear and well-composed images help tell your story effectively. Make sure your images are well-lit, properly framed, and relevant to your content.
+
+Video Content
+Videos are incredibly engaging and can demonstrate concepts that static images cannot. Gameplay footage, tutorials, build timelapses, and creative showcases all work well on Bloxdhub. Keep videos focused and ensure good audio quality if you include narration.
+
+Creative Presentations
+Consider how you present your visual content. Multiple angles of a build, before-and-after comparisons, step-by-step progress shots, and creative compositions all add value to your posts. Think about what would make your content stand out in a feed full of other posts.
+
+Content Categories That Perform Well
+Certain types of content consistently generate positive engagement on Bloxdhub. Understanding these categories can help you create posts that resonate with the community.
+
+Creative Builds and Showcases
+Share your impressive Bloxd.io creations, unique builds, or creative projects. Include multiple angles, explain your process, and highlight interesting details or techniques you used.
+
+Tutorials and Guides
+Help other users learn new techniques, understand game mechanics, or improve their skills. Step-by-step guides with clear explanations and visual aids are highly valued.
+
+Mod Showcases and Reviews
+Demonstrate interesting mods, explain how they work, or review their quality and usefulness. Help the community discover new content and understand what makes mods worth trying.
+
+Community Discussions
+Start meaningful conversations about Bloxd.io updates, community events, building techniques, or platform improvements. Ask thoughtful questions that encourage participation.
+
+Achievements and Milestones
+Share significant accomplishments, completed projects, or personal milestones. Celebrate your progress and inspire others to pursue their own goals.
+
+Collaborative Projects
+Organize community events, group builds, or collaborative projects. These posts bring users together and create shared experiences within the community.
+
+Writing Effective Post Descriptions
+Your post description is just as important as any visual content you include. A well-written description provides context, engages readers, and encourages interaction. Keep your writing clear, concise, and engaging.
+
+Start Strong
+Begin your post with something that immediately captures attention. This could be an interesting fact, a question, or a brief summary of what makes your content special. Avoid generic openings that do not add value.
+
+Provide Context
+Explain what users are looking at, how you created it, what inspired you, or what challenges you faced. Context helps users understand and appreciate your content more fully.
+
+Encourage Interaction
+End your posts with questions, requests for feedback, or invitations for others to share their own experiences. This encourages comments and builds community engagement around your content.
+
+Use Clear Language
+Write in a way that is easy to understand. Avoid excessive technical jargon unless you are creating content specifically for advanced users. Remember that Bloxdhub has users of all experience levels.
+
+Timing and Consistency
+When you post can impact how many people see and interact with your content. While there is no perfect time that works for everyone, understanding general patterns can help you reach more users.
+
+Consistency is more important than perfect timing. Regular posting helps you build an audience and keeps your content visible in the community. However, prioritize quality over quantity. It is better to post less frequently with high-quality content than to post often with mediocre material.
+
+Engaging with Your Audience
+Creating quality posts is only the beginning. How you interact with users who engage with your content is equally important for building a positive presence on Bloxdhub.
+
+Respond to Comments
+Take time to reply to users who comment on your posts. Thank them for their feedback, answer their questions, and engage in meaningful conversations. This shows that you value community interaction.
+
+Be Open to Feedback
+Accept constructive criticism gracefully and use it to improve your future content. Users who take time to provide thoughtful feedback are helping you grow as a creator.
+
+Support Other Creators
+Engage with content from other users. Like, comment on, and share posts that you genuinely enjoy. Building relationships within the community benefits everyone and often leads to increased engagement on your own content.
+
+Common Mistakes to Avoid
+Learning from common mistakes can help you create better content from the start. Here are some pitfalls that new users often encounter:
+
+Low-Effort Content
+Avoid posting content that required minimal effort or thought. Screenshots without context, repetitive posts, or content that adds no value to the community will not perform well.
+
+Ignoring Community Guidelines
+Always review your content against community guidelines before posting. Rule violations can result in content removal or account penalties.
+
+Excessive Self-Promotion
+While sharing your work is encouraged, constantly promoting yourself or asking for follows and likes will turn users away from your content.
+
+Poor Image Quality
+Blurry, dark, or poorly composed images detract from your content. Take time to capture clear, well-lit photos that showcase your work effectively.
+
+Neglecting Descriptions
+Posts without descriptions or with very brief, uninformative text miss opportunities to engage users and provide valuable context.
+
+Building Long-Term Success
+Creating quality posts is part of building a lasting, positive presence on Bloxdhub. Focus on contributing value to the community, supporting other users, and continuously improving your content creation skills.
+
+Remember that building an audience takes time. Do not be discouraged if your early posts do not receive immediate attention. Keep creating quality content, engaging with the community, and learning from both successes and setbacks.
+
+The most successful users on Bloxdhub are those who genuinely care about the community and consistently contribute valuable, engaging content. Focus on being helpful, creative, and respectful, and your posts will naturally attract positive attention over time.
+
+Key Takeaway
+Quality posts combine valuable content, visual appeal, clear communication, and community guidelines compliance. Focus on creating content that you would want to see, and others will appreciate it too.
+
+---
+
+**Terms of Service**
+# Bloxdhub 3.5 - Terms of Service
+
+## 1. Acceptance of Terms
+By accessing and using Bloxdhub, you agree to comply with and be legally bound by these Terms of Service, as well as all applicable laws and regulations. Continued use signifies acceptance of any future changes.
+
+## 2. User Eligibility
+Bloxdhub is intended for users aged 13 and above. Users under 13 must have verified parental or guardian consent and be supervised while using the platform.
+
+## 3. User Content
+ - You retain full ownership of all content you create or upload.
+ - We do not claim any rights over your content.
+ - You are solely responsible for ensuring your content adheres to our guidelines.
+ - We reserve the right to remove or restrict content that violates our policies, community standards, or applicable laws.
+## 4. Account Security
+ - You are responsible for the confidentiality of your account credentials.
+ - Notify our team immediately if you suspect unauthorized access.
+ - Do not share or transfer access to your account with others.
+## 5. Data Privacy & Monetization
+We are committed to protecting your privacy:
+
+ - We do not and will never sell your data.
+ - We do not share your data with third parties.
+ - All personal data is confidential and used only to improve your experience.
+ - No external companies are given access to your personal information.
+## 6. Content and Account Deletion
+You have full control over your content and account:
+
+ - You can delete your own posts and comments at any time through the platform interface.
+ - You can request permanent deletion of your account through your profile settings.
+ - Account deletion is permanent and irreversible—all your content, data, and account information will be permanently removed.
+ - Account deletion requires confirmation to prevent accidental deletion.
+ - Some anonymized usage data may be retained for security and analytics purposes, but will not be personally identifiable.
+## 7. Prohibited Behavior
+Users may not:
+
+ - Engage in harassment, bullying, or hate speech
+ - Attempt unauthorized access to any systems
+ - Distribute malware, malicious code, or spam
+ - Impersonate others or mislead users
+ - Use automated bots or exploit the platform
+## 8. Platform Rules
+To maintain a positive community environment:
+
+ - Respect other users and their opinions
+ - Keep content appropriate for all ages
+ - Report any violations or suspicious activity
+ - Follow all applicable laws and regulations
+## 9. Service Availability
+We strive to maintain high service availability but cannot guarantee uninterrupted access. We may perform maintenance, updates, or modifications that temporarily affect service availability.
+
+## 10. Limitation of Liability
+Bloxdhub is provided "as is" without warranties. We are not liable for any damages arising from your use of the platform, including but not limited to direct, indirect, incidental, or consequential damages.
+
+## 11. Changes to Terms
+We may update these Terms of Service at any time. Continued use of the platform after changes constitutes acceptance of the new terms. We will notify users of significant changes through the platform or email.
+
+## 12. Contact Information
+For questions about these Terms of Service, please contact us through the platform or via email.
+
+*Last Updated: October 2025*
+
+---
+
+**Privacy Policy**
+# Bloxdhub 3.5 - Privacy Policy
+
+## 1. Data Collection
+We only collect what we need to provide and improve our services:
+
+ - Account info (email, username)
+ - Profile info (bio, avatar, settings)
+ - Posts, comments, and interactions you create
+ - Usage data to improve platform performance
+## 2. IP Collection and Use
+We collect and store your IP address to help protect the site and community. IP addresses are securely hashed using industry-standard methods and server-side secret keys. The hashed IP data is used solely for moderation purposes, including enforcing bans and detecting alternate accounts.
+
+ - We do not share, sell, or use IP data for marketing or tracking beyond account security
+ - Access to hashed IP records is strictly limited to the owner only
+ - Hashed IP records are retained for up to 90 days unless required longer for an active investigation
+## 3. Data Usage & Protection
+Your data is:
+
+ - Never sold
+ - Never shared with external companies
+ - Used solely for improving your experience
+ - Protected by strong encryption and system monitoring
+## 4. Your Control & Deletion Rights
+You have complete control over your data:
+
+ - Edit or remove your profile info anytime
+ - Delete your posts and comments individually
+ - Request complete account deletion which permanently removes all your data
+ - Account deletion includes removal of posts, comments, likes, follows, and all personal information
+ - Deletion is immediate and irreversible once confirmed
+ - Some anonymized data may be retained for platform security and improvement, but cannot be traced back to you
+## 5. Children's Privacy
+Users under 13 must have parent or guardian consent. We do not knowingly collect data from children under 13 without it.
+
+## 6. Data Security
+We implement industry-standard security measures to protect your data:
+
+ - Encryption in transit and at rest
+ - Regular security audits and updates
+ - Access controls and monitoring
+ - Secure data centers and infrastructure
+## 7. Cookies and Tracking
+We use essential cookies for platform functionality and optional analytics cookies to improve user experience. You can control cookie preferences in your browser settings.
+
+## 8. Third-Party Services
+We may use trusted third-party services for authentication and analytics. These services are bound by their own privacy policies and data protection standards.
+
+## 9. International Data Transfers
+Your data may be processed in different countries. We ensure appropriate safeguards are in place to protect your data during international transfers.
+
+## 10. Transparency
+We may update this privacy policy. Any major changes will be announced clearly on-site or via email.
+
+## 11. Contact Information
+For questions about this Privacy Policy or data handling, please contact us through the platform or via email.
+
+*Last Updated: October 2025*
