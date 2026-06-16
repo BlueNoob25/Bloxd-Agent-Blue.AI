@@ -1,0 +1,93 @@
+This is a .txt file containing the official r/bloxd wiki pages (not part of the fandom wiki for bloxd.io. See the link to these r/bloxd wiki pages at https://www.reddit.com/r/bloxd/wiki/index/)
+
+How to find appropriate pages in this .txt file easily:
+
+ - Look for "---" which separates pages (the first one separates this .txt file's notes from the first blog)
+ - Look for Page [number], which indicates the following text is a page.
+ - Look for **[text]**, this indicates the page's title
+ - Right underneath the title is the blog's info.
+ - It is recommended to look for the title to find information.
+
+---
+
+Page 1: **Index**
+# r/bloxd Wiki
+This contains some helpful resources with a few disclaimers. You are recommended to skim this before asking questions, as it improves the content in our subreddit!
+
+Page 2: **Resources**
+# Coding
+**Repositories**
+[Official Bloxd API](https://bloxd.io/docs) (Or see the [GitHub Link](https://github.com/Bloxdy/code-api)) - Contains every API function but can be limited in more niche details. It is updated automatically and it is official.
+[Sheriff U3 API](https://github.com/GlitchHunterCoder/Bloxd.io-API-code) - Contains most API functions and has nearly every niche detail. It is not updated automatically and it is unofficial.
+[BloxdHub Docs](https://bloxdhub.com/bloxd-api) - (unofficial, more like a tutorial)
+[JavaScript Tutorial](https://www.w3schools.com/js/) - An introduction to JS (JavaScript), the language we use to code in Bloxd.
+
+# Information
+**General**
+[Bloxd Wiki](https://bloxd-io.fandom.com/wiki/Bloxd.io_Wiki) - Is partly maintained by a developer and some mods here, but is often inconsistent and poorly-formatted.
+
+---
+
+Page 3: **Coding Guidelines**
+JavaScript Tutorial: https://www.w3schools.com/js/
+The Almighty Docs: https://github.com/Bloxdy/code-api/blob/main/README.md (official)
+The Great Docs https://github.com/Sheriff-Unit-3/Bloxd.io-API-code/blob/main/Icons.md (unofficial, includes more niche things like icons)
+BloxdHub Docs: https://bloxdhub.com/bloxd-api (unofficial, more like a tutorial)
+
+Before asking a code question, think about what you want and how you phrase it:
+
+`Expectations`
+
+1. Do you want to ask a simple question, or do you want people to code a whole game?
+
+`Clarity`
+
+2a. **Make sure to be as precise as possible.**
+
+Instead of saying (for example): "Code help" in the title and "Help me code Squid Game" in the description, say "Help for Red Light, Green Light" in the title and put "I need help with detecting player movement." in the description.
+
+2b. **Be ready to clarify** your wants/needs/experience in the comments.
+2c. **Be specific about errors.** Don't just say "it says TypeError", Google what, say, "TypeError" means and share the recently changed and suspected areas of your code, along with the full error.
+
+`Code Stealing`
+
+1. Don't steal or advocate for stealing code. I really don't think I should have to say this, but coders put a lot of effort into their code, and it can be frustrating when someone takes it and doesn't give credit or even takes the credit for themselves. I've seen people actually admit to using hacks to steal code. It's absurd and we should be a helpful community, not the reason people need to obfuscate their code.
+
+`Malicious Code`
+
+1. Don't give away or ask for code that can harm worlds.
+
+And if you're answering questions, be more descriptive than "Read the docs". If someone knows nothing about coding and doesn't want to know about coding, you aren't obligated to spend hours working on a game for them.
+
+But if you see someone putting forth a good effort, say more than that.
+
+`Flair`
+
+Use the proper flair ("POSTING A CODE" or "NEED CODING HELP") in the right context.
+
+# Content that heavily break these guidelines will be taken down. Action will be taken against repeat-offenders.
+
+---
+
+Our community (and its users) make use of official and unofficial bots. Official bots have been developed for r/bloxd, and get a [Bot] flair and unofficial bots have a [Bot (Unofficial)] flair.
+
+Bots
+[u/bloxd-bot](https://www.reddit.com/user/bloxd-bot/?screen_view_count=16/)
+A wide range of moderation and engagement features.
+
+ - You can see them at its [directory page](https://developers.reddit.com/apps/bloxd-bot).
+
+[u/pixel-counter-bot](https://www.reddit.com/user/pixel-counter-bot/?screen_view_count=2/)
+Counts the pixels of an image
+
+ - You can mention u/pixel-counter-bot under an image post, and it will reply with the exact amount of pixels of the image.
+ 
+[u/RemindMeBot](https://www.reddit.com/user/RemindMeBot/?screen_view_count=4/)
+Reminds users.
+
+ - The command syntax is `u/RemindMeBot [time]`, eg `u/RemindMeBot 1 day`
+
+[u/sneakpeekbot](https://www.reddit.com/user/sneakpeekbot/?screen_view_count=6/)
+Shows a sneak peek of a mentioned subreddit, giving the top posts of that year.
+
+When you mention a popular subreddit, sneakpeekbot gives you a summary.
